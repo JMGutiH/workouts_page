@@ -3,15 +3,19 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
-    description: 'Personal Workouts Page',
-    keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
+    siteTitle: '古蒂的运动记录',
+    siteUrl: 'https://www.strava.com/athletes/68463270',
+    logo: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/68463270/26652976/1/large.jpg',
+    description: 'JMGutiH Workouts Page',
+    keywords: 'Running, Skiing, Soccer',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://ben29.xyz',
+        name: 'Garmin',
+        url: 'https://connect.garmin.com/modern/profile/8d8a6944-a883-4466-a8a5-3f3d8035d66b',
+      },
+      {
+        name: 'Strava',
+        url: 'https://www.strava.com/athletes/68463270',
       },
       {
         name: 'About',
