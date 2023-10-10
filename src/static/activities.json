@@ -26683,5 +26683,35 @@
 "average_speed": 3.996,
 "source": "strava",
 "streak": 30
+},
+{
+"run_id": 10005325127,
+"name": "Evening Run",
+"distance": 1056.9,
+"moving_time": "0:05:55",
+"type": "Run",
+"start_date": "2023-10-09 10:41:04+00:00",
+"start_date_local": "2023-10-09 18:41:04",
+"location_country": "\u897f\u5c0f\u53e3\u8def, \u6e05\u6cb3\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100196, \u4e2d\u56fd",
+"summary_polyline": "{wlsF_wceUIYDAEGMo@UiBUw@Ou@?]@GFGJC~@K\\KhBO`AMjBIrAOVAtFc@nFqBt@Uv@[TETMtBo@zBy@xBs@NSHa@LQ",
+"average_heartrate": 117.6,
+"average_speed": 2.977,
+"source": "strava",
+"streak": 31
+},
+{
+"run_id": 10005408653,
+"name": "Evening Ride",
+"distance": 2657.6,
+"moving_time": "0:12:21",
+"type": "Ride",
+"start_date": "2023-10-09 10:48:36+00:00",
+"start_date_local": "2023-10-09 18:48:36",
+"location_country": "\u4e1c\u5347\u79d1\u6280\u56ed\u8def, \u897f\u4e09\u65d7\u8857\u9053, \u9a6c\u574a\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100192, \u4e2d\u56fd",
+"summary_polyline": "c_ksFswdeUnAe@?EH@VIRCx@F\\GdAg@|@[f@OhCcAbGsBn@WREz@UZEj@PbAd@z@d@b@`@Xl@Pp@X~AVdAf@jCTv@^NdBMhBUhCKr@IZ?TD\\bDTxD?|@FfFCJRdEC|@JbF@`A\\xFD|BHp@Fx@Jl@Cz@@XHbADpALxAHdBRbBf@zBZbA?j@VH^KjAg@|@o@bIkF`As@j@W`@IFK",
+"average_heartrate": 80.2,
+"average_speed": 3.587,
+"source": "strava",
+"streak": 31
 }
 ]
