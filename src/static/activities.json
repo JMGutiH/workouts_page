@@ -26758,5 +26758,35 @@
 "average_speed": 3.46,
 "source": "strava",
 "streak": 34
+},
+{
+"run_id": 10031034213,
+"name": "Night Ride",
+"distance": 1626.2,
+"moving_time": "0:08:28",
+"type": "Ride",
+"start_date": "2023-10-13 13:43:54+00:00",
+"start_date_local": "2023-10-13 21:43:54",
+"location_country": "\u5317\u9523\u9f13\u5df7, \u5b89\u5b9a\u95e8\u8857\u9053, \u9996\u90fd\u529f\u80fd\u6838\u5fc3\u533a, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+"summary_polyline": "i_yrFiuleUEAWDe@BYA[Gg@Ai@BMCCEC]DeBCqE@YIaDRyC@yFD[Rk@Rs@Cm@i@iBCy@A{EW}CEeBEcFGqCEeGKyFIu@IOIGgAYu@C}BHo@Mm@i@Ym@KyBAWDCABKaA",
+"average_heartrate": 84.3,
+"average_speed": 3.201,
+"source": "strava",
+"streak": 35
+},
+{
+"run_id": 10033320616,
+"name": "Morning Ride",
+"distance": 2999.4,
+"moving_time": "0:14:33",
+"type": "Ride",
+"start_date": "2023-10-13 22:09:33+00:00",
+"start_date_local": "2023-10-14 06:09:33",
+"location_country": "\u5317\u82d1\u8def, \u98d8\u4eae\u9633\u5149\u5e7f\u573a, \u5927\u5c6f\u8857\u9053, \u6765\u5e7f\u8425\u4e61, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "yzcsFeooeUEQN?NJBJ\\v@DvDF`@@vIFjC?tDBj@@pAArBDjADlDEdCHbDDx@NF`@BLL@Be@^Wh@CNBhBAtADjBFlA@t@KbBCz@BXFdK?jHJfDApAHrG?nBLfFAhCJpI?b@Gl@Cl@B|@Cb@ERk@JuBB{DJs@PiAJkAI_@?_EHe@Dy@LiBG{FPaBBcBCq@JYTE`@EH?A",
+"average_heartrate": 85.8,
+"average_speed": 3.436,
+"source": "strava",
+"streak": 36
 }
 ]
