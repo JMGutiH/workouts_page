@@ -28513,5 +28513,20 @@
 "average_speed": 3.671,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 10678003013,
+"name": "Morning Ride",
+"distance": 4677.1,
+"moving_time": "0:17:19",
+"type": "Ride",
+"start_date": "2024-02-02 00:36:43+00:00",
+"start_date_local": "2024-02-02 08:36:43",
+"location_country": "\u5e7f\u6e20\u95e8\u5357\u6ee8\u6cb3\u8def, \u65b9\u5e84\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100021, \u4e2d\u56fd",
+"summary_polyline": "avjrFs|teUKAe@OaAMcA[i@[yA[i@QmAe@i@OwB}@g@Qu@a@cBYaBIo@Bw@FeC\\{ALqEj@WJsBHw@AkB}@MCYAqCTo@C_@Sa@@u@j@aEVOJeBxAWNy@H_EXiADsFb@y@DqGd@wAFa@IKIk@o@KGKAOBMEI?mEVQC[Ww@NCFUR}CDqAFy@b@_AZ{BPiDDcARm@ZiAhA{@~@s@nA]~@]jB}AdLMl@u@zGg@jC[v@c@t@u@v@k@\\_AZQBs@@Q?iAQ[BmCM_@EKKEIEa@AoIEQUKGBMLIj@@jBCrE[t@KLODeBVuBTgBFmARiADg@AMC{@_@k@YUGm@IWAoCB_@SYEo@@a@WBSB?AAm@CMC?@",
+"average_heartrate": 111.8,
+"average_speed": 4.502,
+"source": "strava",
+"streak": 16
 }
 ]
