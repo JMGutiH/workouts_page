@@ -29443,5 +29443,20 @@
 "average_speed": 2.602,
 "source": "strava",
 "streak": 21
+},
+{
+"run_id": 11019305389,
+"name": "Afternoon Ride",
+"distance": 5475.2,
+"moving_time": "0:24:02",
+"type": "Ride",
+"start_date": "2024-03-23 09:12:09+00:00",
+"start_date_local": "2024-03-23 17:12:09",
+"location_country": "\u89c2\u5c71\u8def, \u7eff\u57ce\u7389\u5170\u82b1\u56ed3\u671f, \u592a\u6e56\u8857\u9053, \u6ee8\u6e56\u533a, \u65e0\u9521\u5e02, \u6c5f\u82cf\u7701, 214000, \u4e2d\u56fd",
+"summary_polyline": "w|e_Eufg}UD@[aBs@{BSc@?@?SKa@Wc@_FqPs@wCc@cCKy@A_AOcAEqACwA?oBJmCTyEL}DJUTApBH`BMlAOrA[hEeBhA]|@SnBSlEY`I]xCEf@Gx@WdASbBq@hCyAdA}@n@o@~CmDtBwBbBuAnCiBNSFSFm@Io@g@sCaAoESk@_@yASgAy@aDe@{BSq@SgAe@mBGk@Oy@_@_BEa@FWVIf@IbFi@hHiApB_@ZQd@Gf@OfAU`AKrD}@hFuArAe@j@OVMjLeDn@WRa@Hi@GiAc@oBOcASe@]qB]yAWwA_AeHa@qDEOMmBQqACk@CGYuAs@oFHYT]D@@C",
+"average_heartrate": 80.3,
+"average_speed": 3.797,
+"source": "strava",
+"streak": 22
 }
 ]
