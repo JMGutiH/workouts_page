@@ -29848,5 +29848,20 @@
 "average_speed": 3.386,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11176122628,
+"name": "Xiong'An Half Marathon 1:22:45",
+"distance": 21187.2,
+"moving_time": "1:22:47",
+"type": "Run",
+"start_date": "2024-04-13 23:30:40+00:00",
+"start_date_local": "2024-04-14 07:30:40",
+"location_country": "\u767d\u5854\u8def, \u5bb9\u57ce\u53bf, \u96c4\u5b89\u65b0\u533a, \u6cb3\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "gnjmFyrlbUFAT?lAPt@Ch@@VCZDdADf@CjBDj@EfCBh@CdABrAEhAFnBATAh@BxAAnB@dAA\\EL@FLh@vCTdBhB`PFx@ZtBp@jG|@~GVlChArJf@dERjA|@pH`AnHDd@r@bFf@lE^pCLfB@bA?vIE`EFn@DPHLJJb@JN@NCv@SRKvCsBdBeA|BiAp@i@xCiBvF}DrAw@VWLWDQASi@mE_@kCq@_Ek@gCm@cC{@}Cs@yBkAgEi@cBiAaE]yAkA{Dy@uCqBgJi@qCs@qEy@eGc@{Dg@yDGiAK_AOyBGc@GiBWmECwAKiC?oAGaCIiGCeKBkBCmXBeF@sG@e@FeGHOTI\\BbAJdA?pADz@EdBArIBvJClI@j@BfDAbED`BAnAEzB?dCEvHCdDK\\@FAJKHg@@a@A}E@yBEuDDsBEeFDuGCwF@kDAmA@]AcAB}@?cHCgHBcGAgKCwAB_DAgCHsG@oFFmA?yAFQLGFAz@Ax@B\\AbA?lBGdE@b@Cl@@t@EhE?nBGr@@n@ApABPALI\\g@Bc@CeA@oFEqE@wCC}EBiEAyDBkFCmPAm@BmFC{HB_CCSCGGCOEaA?_AEuB@gLOeB?m@BsCCmA@cBAUBsAAmDB_EA}B@_BC}B@yADsACcF@_AAcDD{@EkBBaBCqCBkBAg@BeAA{A@uAAm@DG?AOG?BNgFCiBFiAH_@JQNWZe@JSRCF?TTrCDvAPlD@nAErDK`BUvBQpAm@xFU|AU|C[hCO`DAvBBpBCnGFxGAhCBfCAlB@z@@`ECdHBxAC`BDzCCfBHPNHn@FrFD~CCtD@pBAnCBd@AhB?l@GD@DB@HADE@_BIu@A}C@iBBiBA}BBsCA}A@{BA}AFg@?u@F{@L}BBm@Ay@DgGDaAEuBg@WA_A?}@DGDSXGTG~@ArB?jBY`Li@tHc@zESbBK`Ba@dI@dEExCDx@?`FC|@BdBAtBBjC?xAHnDFv@J`CTxDZbENtA^bFFvARtBHhBb@bEHlB~@rKJhB?rAJzDn@tHd@vCVvCVbBPfBCJCDOD}BA_CEoABiAAmEH{BAqGDsACkD?c@CaA@WA",
+"average_heartrate": 170.6,
+"average_speed": 4.266,
+"source": "strava",
+"streak": 2
 }
 ]
