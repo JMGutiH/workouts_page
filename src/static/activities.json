@@ -29998,5 +29998,35 @@
 "average_speed": 4.052,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11237111857,
+"name": "Afternoon Run",
+"distance": 3280.7,
+"moving_time": "0:17:17",
+"type": "Run",
+"start_date": "2024-04-22 08:40:50+00:00",
+"start_date_local": "2024-04-22 16:40:50",
+"location_country": "\u56fd\u5bb6\u5965\u6797\u5339\u514b\u4f53\u80b2\u4e2d\u5fc3, \u5965\u4f53\u4e2d\u8def, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100000, \u4e2d\u56fd",
+"summary_polyline": "o}_sF{qkeUFBDUN_@CA",
+"average_heartrate": 134.5,
+"average_speed": 3.164,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 11237774710,
+"name": "Evening Run",
+"distance": 6889.9,
+"moving_time": "0:33:59",
+"type": "Run",
+"start_date": "2024-04-22 10:38:43+00:00",
+"start_date_local": "2024-04-22 18:38:43",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 126.0,
+"average_speed": 3.379,
+"source": "strava",
+"streak": 3
 }
 ]
