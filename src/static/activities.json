@@ -30568,5 +30568,20 @@
 "average_speed": 3.223,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 11490205010,
+"name": "Morning Run",
+"distance": 5376.5,
+"moving_time": "0:24:31",
+"type": "Run",
+"start_date": "2024-05-25 02:28:51+00:00",
+"start_date_local": "2024-05-25 10:28:51",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 143.5,
+"average_speed": 3.655,
+"source": "strava",
+"streak": 8
 }
 ]
