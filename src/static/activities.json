@@ -30793,5 +30793,20 @@
 "average_speed": 3.964,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11611891302,
+"name": "Evening Run",
+"distance": 18506.6,
+"moving_time": "1:21:22",
+"type": "Run",
+"start_date": "2024-06-09 12:10:04+00:00",
+"start_date_local": "2024-06-09 20:10:04",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 139.3,
+"average_speed": 3.791,
+"source": "strava",
+"streak": 2
 }
 ]
