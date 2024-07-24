@@ -31498,5 +31498,20 @@
 "average_speed": 3.143,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 11961027447,
+"name": "Night Ride",
+"distance": 1511.0,
+"moving_time": "0:06:59",
+"type": "Ride",
+"start_date": "2024-07-23 15:04:23+00:00",
+"start_date_local": "2024-07-23 23:04:23",
+"location_country": "\u5317\u4e09\u73af\u4e2d\u8def, \u82b1\u56ed\u8def\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100088, \u4e2d\u56fd",
+"summary_polyline": "u~|rFacfeUMH@v@E`A?~ABjEDzA@tBBtAAbEFnE@tKEp@DjAAh@GRElC@XBDHB^AlA@BD@hBCf@E?EK?{NDq@?_FCwA@s@IaG@_BDM",
+"average_heartrate": 77.5,
+"average_speed": 3.606,
+"source": "strava",
+"streak": 4
 }
 ]
