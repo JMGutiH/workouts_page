@@ -31693,5 +31693,20 @@
 "average_speed": 3.724,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12059857603,
+"name": "Brooks Hyperion Max Debut",
+"distance": 15316.4,
+"moving_time": "1:08:47",
+"type": "Run",
+"start_date": "2024-08-04 11:05:51+00:00",
+"start_date_local": "2024-08-04 19:05:51",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 141.7,
+"average_speed": 3.711,
+"source": "strava",
+"streak": 2
 }
 ]
