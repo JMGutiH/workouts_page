@@ -32113,5 +32113,20 @@
 "average_speed": 3.613,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 12262828140,
+"name": "Afternoon Run",
+"distance": 13011.1,
+"moving_time": "0:59:01",
+"type": "Run",
+"start_date": "2024-08-28 09:34:01+00:00",
+"start_date_local": "2024-08-28 17:34:01",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 130.2,
+"average_speed": 3.674,
+"source": "strava",
+"streak": 12
 }
 ]
