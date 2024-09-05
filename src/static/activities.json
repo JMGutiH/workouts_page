@@ -32203,5 +32203,35 @@
 "average_speed": 3.717,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 12322625516,
+"name": "Afternoon Run",
+"distance": 712.0,
+"moving_time": "0:04:07",
+"type": "Run",
+"start_date": "2024-09-04 09:13:39+00:00",
+"start_date_local": "2024-09-04 17:13:39",
+"location_country": "\u5143\u5927\u90fd\u57ce\u57a3\u9057\u5740\u516c\u56ed, \u5065\u5b89\u4e1c\u8def, \u548c\u5e73\u8857\u8857\u9053, \u592a\u9633\u5bab\u4e61, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "mm~rF{wpeUKb@CZAz@BV?jACnK@d@CrAFrHEzAFV?HWj@EBUCi@CiAHo@?[HOLKZAZ@v@",
+"average_heartrate": 113.3,
+"average_speed": 2.883,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 12324374665,
+"name": "Night Run",
+"distance": 10312.0,
+"moving_time": "0:47:17",
+"type": "Run",
+"start_date": "2024-09-04 13:13:25+00:00",
+"start_date_local": "2024-09-04 21:13:25",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 134.6,
+"average_speed": 3.635,
+"source": "strava",
+"streak": 5
 }
 ]
