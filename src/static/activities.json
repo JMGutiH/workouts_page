@@ -32623,5 +32623,20 @@
 "average_speed": 3.229,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 12538713302,
+"name": "E-Xiu Lake",
+"distance": 8606.3,
+"moving_time": "0:43:20",
+"type": "Run",
+"start_date": "2024-09-30 09:44:00+00:00",
+"start_date_local": "2024-09-30 17:44:00",
+"location_country": "\u6210\u90fd\u7406\u5de5\u5927\u5b66\u5ce8\u7709\u5c71\u5b9e\u4e60\u57fa\u5730, \u540d\u5c71\u5357\u8def, \u7ea2\u73e0\u5c71, \u5ce8\u7709\u5c71\u5e02, \u4e50\u5c71\u5e02, \u56db\u5ddd\u7701, 614200, \u4e2d\u56fd",
+"summary_polyline": "_tnsDkrlvRDAGQOaACu@C[Ma@o@}@?KFe@GUq@}@m@q@g@a@kAuAi@e@_AaAOU]WW[s@q@Y]{AwAu@eAk@a@c@c@]S{@o@y@g@wAg@y@_@QOmBw@g@OQOQWs@_@KEWBOCsCkA{@e@iBs@g@YiCgA}BuAy@k@q@]WUoAo@USi@UeAs@kAm@[_@c@WeAw@c@QcAs@yAsA_@a@]i@cBkD}@sAi@eAc@s@eA{BU[e@aAUYkAiBc@mASYEKCa@@ODIfBqAlAy@rEoDJEL?VLJ?BC?MGi@@OHQdAyA`AeAzAmBTc@t@}@~@}ATw@?_AIk@{@_ECq@BIHEH@HHjBtDXt@p@fAj@hARXn@vA~@fBz@zANNhAA`BQzASJ@DFP@AQDGL?NEz@]XOb@KdAw@hBeAp@k@XKhAs@d@WfAq@TU|@i@h@c@nAu@TIRBHDb@n@h@d@b@Xh@PbBVpDVt@HfBNV?ZCH@x@PjCXhARHHDPLCf@EhAHj@?hAPn@DZ?bFb@f@@~BTb@J`@LRRZPVPf@t@f@~ADTFz@C|@I^Qh@i@bAq@|@{AhCaA`Cq@rB[t@ID[DUXe@XiB|AKNCJ?HHXGNw@ZYUMCWF[TM\\_@rA?VL|@Bx@Df@Ex@Wl@MRKX?LBZANABi@`@EJAR?NLXDJLFH?\\ON?PB^P|AT^HJFJHFLb@zA^l@f@`@AJGJaClBSTCL@BNRDTCPSd@S\\?BH@NEf@I\\BLAf@a@DIEEOLu@jA]n@Ob@Md@@HTJf@JlBl@FFFJDf@NH~Aj@|AZNTBLB`@ANUdAw@vAmC|DaApAo@hAoAjCMTQRWRSLu@JyA\\mA^_ARQB[HMLER@TTXHPVlADf@?f@Fz@Nl@AN",
+"average_heartrate": 133.4,
+"average_speed": 3.31,
+"source": "strava",
+"streak": 10
 }
 ]
