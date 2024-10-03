@@ -32653,5 +32653,20 @@
 "average_speed": 3.776,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 12554183298,
+"name": "Exploring JinCheng Lake",
+"distance": 13012.9,
+"moving_time": "1:03:32",
+"type": "Run",
+"start_date": "2024-10-02 06:04:05+00:00",
+"start_date_local": "2024-10-02 14:04:05",
+"location_country": "\u9526\u57ce\u5927\u9053, \u9526\u7f8a\u793e\u533a, \u77f3\u7f8a\u8857\u9053, \u9ad8\u65b0\u533a, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610042, \u4e2d\u56fd",
+"summary_polyline": "cbsyD_z_zRL`@]jCDbARhA@p@UlAUh@]vABrBNbATj@^p@hArAZn@Lh@Jv@@r@SlCJnARr@p@|@r@ZzEf@t@`@t@bAb@TlCXZEb@Yl@u@NaA?i@K}@u@_BE[B[LWz@o@PYNu@?mAZcAtAqA\\c@J[ViBFwAl@sA^aB@g@E}@LiAXeAHaABuFLqAXoAbA}BfAqA|B}A^g@ZaAHu@EeAa@{BK_A?w@H_Bf@uBj@aAxAmB^iALu@DqA?u@OkAAk@P}B^sAh@{@lBcBBe@Su@iAgBs@g@g@A]F[RYb@]hBQfBOt@y@rBBfCu@|AK~Ao@lBk@lCO|ACfCKn@W`AqAvC]zAQtBIDk@OCI_@CVNk@]}A_@o@Dg@f@KBMOCs@c@gDCYFi@H[z@}AbB}An@kANo@NoAGeDJiA^gAr@cAr@aB\\mAHq@b@N@cBg@gDGs@YcA}@cAuA{@w@QeBBw@ToAd@e@\\STg@`Aw@jCS~B@lAGrAIj@g@zACdBGj@o@hBOz@?nAZdCEf@c@hAuCdDQd@a@pBaAfAi@pAChAPpAXp@l@`@p@Th@F~BUz@?dDx@XCPm@~@w@d@k@Z_AL}@Bw@o@}E@w@Ns@l@aAd@o@vAqA^{@Ps@JeAEkEJq@Vs@nAuBb@cAT?JKT]Re@JHTn@^f@BRt@FFErAb@DNGR]\\KV]tBkAhEWvBEnBMtA_@zAi@~@q@fBa@zDHv@h@xBRzALTNF`@?v@S`CgAXSd@k@b@cAJk@FsAIcAc@eCOGe@DIHALf@dBHn@Cx@WlAg@r@yBxAoAxAg@`Ao@pBOvACfA?|Eq@bD?`Cg@pBW\\Q??KZ_AFaAUg@_@SQCoBVq@h@k@`Ao@D}@UQNEPCjAKr@g@hB}@rAKzA@l@Ev@]zAU|ASr@}@rEDT^TP\\h@d@d@VhAPnAFf@MXWLq@?w@Ms@a@}@Mw@CqAHq@X{@rBcET{BZcAZe@nAcA\\u@b@aC?[K]g@]s@?}@Pk@V[\\Yn@OHcAFc@UOAQsAk@qAOs@IcFGw@KUq@k@g@Ey@P}@As@OmBu@}@?wA\\i@b@mAxAIZKbBV|CAV",
+"average_heartrate": 139.8,
+"average_speed": 3.414,
+"source": "strava",
+"streak": 12
 }
 ]
