@@ -32698,5 +32698,20 @@
 "average_speed": 3.371,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 12585102712,
+"name": "Morning Ride",
+"distance": 2515.7,
+"moving_time": "0:09:41",
+"type": "Ride",
+"start_date": "2024-10-05 22:57:52+00:00",
+"start_date_local": "2024-10-06 06:57:52",
+"location_country": "\u7d2b\u8587\u4e1c\u8def, \u7d2b\u8587\u793e\u533a, \u82b3\u8349\u8857\u8857\u9053, \u9ad8\u65b0\u533a, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610041, \u4e2d\u56fd",
+"summary_polyline": "idzyDkhazRJc@?QFm@AwABuAFiBJoA?i@CMMK}BOk@KiAg@m@]e@]MW?i@J}@\\o@n@o@|@}AHCPCnCM|@@pAJnAFt@Dj@A\\B`@TlSuApA?jAFfA?nBJjBDPGXc@Ps@PeIJyBAyEB{@Au@DoCJ{A@g@C]Lq@Du@BuALwAP}CJ{CHgAFQRC?GA@",
+"average_heartrate": 79.6,
+"average_speed": 4.33,
+"source": "strava",
+"streak": 1
 }
 ]
