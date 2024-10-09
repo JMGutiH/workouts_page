@@ -32753,9 +32753,24 @@
 "start_date": "2024-10-07 22:39:41+00:00",
 "start_date_local": "2024-10-08 06:39:41",
 "location_country": "\u5713\u65b9 Elements, 1, \u67ef\u58eb\u7538\u9053\u897f Austin Road West, \u897f\u4e5d\u9f8d West Kowloon, \u6cb9\u9ebb\u5730 Yau Ma Tei, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd",
-"summary_polyline": "secgCi|wwT@TX^XR\\D`@EZMNQJY@a@Em@GMa@O{@e@c@EWEMI@WJi@Bc@Eo@Di@C]CGOM[Mg@Ec@SuAU]QWI[Q?AD?BMC?UMM?o@a@g@Aq@h@CN?X@B?A?BCDCJQPc@p@?LEFCRENKLCPMZEXEd@?LFNNNRFrBh@~Ap@`Bb@|@Zh@JtBz@dAXx@XPBJEDGHYVg@Nu@Nk@@MCqAGWMMIDIPAE@_AAq@D{AEq@By@GgC@KLGf@?TLJJFJCZ@`BA~@BnAE|@@LHT?TEx@UxAFR?p@G`@s@~@CR@LNXFFLDj@BVHp@dAh@~@x@fADHHb@N\\v@pA^h@Vd@Ff@Ar@BDXTd@T`@Ll@^NNXj@LN\\Nf@L\\RV?PKFIJi@D}@?i@P_@FS?cAE{BAiAAAAFAl@DxACZDz@?zBAd@KZEZ@HL^?PQ`@q@~@mA|@UNO@}E?g@Cc@BkAIiA?SCkA[y@s@SMuACSKEE?IDqC?gCFyACk@EIMI[Mq@]SQAE@C\\XLHJPn@ZFLCZ?t@C~@?fGBNPNLD`A@TDr@n@RNn@T^Dl@BH?BCBIGKKESFAD?DJFPBn@CbAD~@CtCFtAARELGZQ\\_@^Y`@k@R_@DMIeA@UJ]CmGGyBDfB@zCC|BKt@Hz@?PKJI@SMSS_@MFb@@`@A^G\\KNm@f@QFQBcI@oCIs@MMEYUa@e@QKUCw@@QEMYAODoACcABwAE}@B_BMQuAs@SQPDn@n@b@RLN@LEzABz@@jCCtABRHHLFdABRDNF^`@`@Vb@NRBpCEPFJLVFjAB~D@h@Kf@[d@e@j@w@Xe@BMA]Ig@@SJ_@?oBDWAIA@At@En@?l@Md@U^QRKF[@JpAIp@IPUPk@VY@_AAu@@gACkABs@Cq@I{@Da@Cy@Wu@g@WUKGWCw@@IAGEGS?UDqCEyAB{AA}@EIMM_@Q[]YKCIFWAKk@_@ICIEOq@FMF?z@^B?^w@LQ`@}@V_@Hc@AA",
+"summary_polyline": "",
 "average_heartrate": 119.5,
 "average_speed": 2.965,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 12604057514,
+"name": "Afternoon Run",
+"distance": 9016.2,
+"moving_time": "0:45:20",
+"type": "Run",
+"start_date": "2024-10-08 09:27:17+00:00",
+"start_date_local": "2024-10-08 17:27:17",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 151.7,
+"average_speed": 3.315,
 "source": "strava",
 "streak": 3
 }
