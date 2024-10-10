@@ -32773,5 +32773,35 @@
 "average_speed": 3.315,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 12612210353,
+"name": "Afternoon Hike",
+"distance": 9827.0,
+"moving_time": "1:50:08",
+"type": "Hike",
+"start_date": "2024-10-09 07:26:14+00:00",
+"start_date_local": "2024-10-09 15:26:14",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 74.4,
+"average_speed": 1.487,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 12612844675,
+"name": "Afternoon Run",
+"distance": 13214.1,
+"moving_time": "1:12:36",
+"type": "Run",
+"start_date": "2024-10-09 09:44:49+00:00",
+"start_date_local": "2024-10-09 17:44:49",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 132.5,
+"average_speed": 3.034,
+"source": "strava",
+"streak": 4
 }
 ]
