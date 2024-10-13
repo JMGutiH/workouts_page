@@ -32863,5 +32863,35 @@
 "average_speed": 3.415,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 12633156073,
+"name": "Morning Run",
+"distance": 13207.8,
+"moving_time": "1:15:34",
+"type": "Run",
+"start_date": "2024-10-11 23:58:50+00:00",
+"start_date_local": "2024-10-12 07:58:50",
+"location_country": "\u4e5d\u9f8d Kowloon, 1, \u67ef\u58eb\u7538\u9053\u897f Austin Road West, \u897f\u4e5d\u9f8d West Kowloon, \u6cb9\u9ebb\u5730 Yau Ma Tei, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd",
+"summary_polyline": "{mcgC}_xwT@NNNpBdAr@Xb@@hCdAPBZI^m@NoASqCBoDMqA@oAJ}AXc@AG_@MGKj@sCC_@o@qBIm@?i@Hk@K_B@aADoAJ_@BkAEeAQBhBW?g@LENJ`@AbBLfAEnAOp@?h@Jn@OBDf@E^OJSPLpAUvAs@rCUv@S\\?^SjA_@|AAnBq@xAFdB]vDKr@`@h@H^VH?`@Uj@i@^o@BY?wAY}AIkBU{AE_ABmAJk@|@wA@y@U}BEoBIWcA{@u@]sAaBo@i@kAg@gBc@qAo@]W_A_AoF}G_BsB]i@k@g@gAqA{AuBQq@KwCUmCkAcF_AgCDG`BeAbBc@HKAWeAiDg@sAsA{EaAqCk@uAYsAm@kAYeBi@sASoAYw@s@e@kAc@?YZa@Js@oAkBy@{AKYEa@_@U_@@}Ct@yAOuKkBEBz@ZpLdBz@E~A]f@CL@HJdBdE~@n@@^k@l@CJ@NPNzAh@HH`@tBNf@^f@d@fAH~@p@~Af@xBNRj@`BnA`EZhBTj@XjA^x@Rv@Dd@QNm@@{@MeAROXRhBr@vB~@hDNrATfFPt@bA~AhAtA`@RrAlB~@bAd@z@~BlCxAvB~ApAnCz@f@`@t@T~@dApAn@jB|A\\^BN?f@SlA?dABb@R^D`@s@nAEh@B\\SjAE|@F`AXz@b@dFK`A_@^{@XgA]m@?YIg@FKJuAZmAJgDr@c@Ka@?u@Yk@Ec@Q{APUV_A@q@\\sAFcA\\e@Aa@Je@ZK\\c@RW\\@T\\v@EK\\}ATPDPHDICeARmAp@i@NmAM_@Bk@EaAy@o@]yAg@i@@GOaBlBEZNP?NIN@NP^TpAEXWLC|@Bv@E|@YbAAjABMCGmA_A_Ac@_@?WLS\\YNe@GDB?EDNPHl@KJx@d@Pb@l@`A~@n@TLVDl@OTVC?GHDDP?t@TP@FGVHz@?r@U~AGrBKfAZzFGTSZY?wAm@QK@I{BwBx@Rl@`@HJTz@r@t@p@Jr@w@@i@a@q@_@_@oBw@BGL@FKNLJRTm@LKCMc@u@Oc@cCyBo@W_@WiAUU]g@MCGu@_@M?[f@a@|AUXEf@OXGb@?VR^hAPf@Kr@A^XPfAFL|@X@GVAfBd@OFIG",
+"average_heartrate": 130.1,
+"average_speed": 2.913,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 12641174611,
+"name": "Morning Run",
+"distance": 30259.9,
+"moving_time": "2:00:18",
+"type": "Run",
+"start_date": "2024-10-12 22:39:37+00:00",
+"start_date_local": "2024-10-13 06:39:37",
+"location_country": "\u666f\u89c2\u5927\u9053, \u4e9a\u8fd0\u6751\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
+"summary_polyline": "{nesFuqjeUSmFqAmF^qK\\_Bb@e@z@Dv@nAZLtAq@Lo@wA{FI_BsBgBoBcAaBYgSKmAl@kCnCiARiASo@g@yCuE_BOmBn@wA`BeBR}EbTRjCKbCHbCr@jGF~DEzEy@pH@tBr@|D|@bBrCfDjAvC`AvIdAtDdEtH~Az@nDAbCaB`B}CrAqEjBiCz@mGbAcCxAwAvD{AlCgDLoD_@kF@wBZ_Ct@uBPmBOqEcAiDMgA\\aKT}A^e@dAAx@lA`@LrAm@JcAsAgFKiBgCkB{CkAaUMyA`A_BjBgB`@{@Uq@m@}BeEeB_@mBn@kBlBuA@YTqEvSTbCKbCFfCn@~ENdGSjHm@jE@dBt@pEvEpGbArCd@lCX~Dh@jC|E|IbCfAxCIzByArAmCfBeFjBoCh@{EtAoDrBcBtCgAtCsDLoCa@kJN_BjAiEJ_AMyEuAwF^{J\\gB`@e@bAHr@jAXLtAo@N_AuAmFGiBaCcBwCmAgUUmAn@oB~BcB`@uBaAgCkEyAYsBp@cBfBiBXwEnSTfDClFr@|FLbGIlEw@tGBbCZfCXt@|DjFjAdCp@~C\\zE|@dDbEpH`CpAbDM~B_B~AcDhAuDxBeDr@aGv@sBbBaBxDcBlCoDNkBa@mH?sBfBaJM_EsAwFZ{J\\qBf@i@z@Bt@rAZHxAo@Lu@}AcGG_BaEgC{Bm@}SKgAj@{BlCcBXiB_AiCmEyA[uBl@_BfB{AJSXuEdSRlCEfGj@xDXdIQfGq@dF@jBl@nDjEbGbAvBh@pBr@vHh@pBxEtIfCfAzBIdCsAbBwCxAuElBmC~@sGr@qBxA_BzD_BtCuDLaD_@yHVgChAuEH}AO}CsAwF`@mKV}A^c@z@Az@tA\\HxAm@N]Ck@oAoEW_CeCgBcCeAmUYmAj@wBlCiBV{As@sCuEmBYkBv@sAxAkBXsEpRI`ARdBAjGp@xFL|EEjF_AnI`@lEdAbCfC~CpA`Cr@zCb@`F`@|BhEjInAtAjA^vB@dBe@n@k@jBeDdBcF`BwB`A_Hv@wB|BmBvCgAlCwDP_D]kF?aCZwBz@gCLgBQuEqAeF^eKTuAf@m@z@?v@rAZJ|Au@Fw@sAcFMqB{C_CgBq@wUa@eBfAuAnBuB`@}Au@kAkCs@y@mBi@_Cr@{AbB}APgEzPWnBPzBGvCv@fIPnIIrDy@dGd@dGv@pBvEnGr@fCb@`Gt@dDdE|Hp@r@vAj@tBHrA[jAaAnBiDvAkEjBiCn@oFbAyCbB}AzDeBbC_DVyB_@_H?mC",
+"average_heartrate": 148.2,
+"average_speed": 4.192,
+"source": "strava",
+"streak": 8
 }
 ]
