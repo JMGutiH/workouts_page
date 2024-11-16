@@ -33433,5 +33433,35 @@
 "average_speed": 2.411,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 12903558095,
+"name": "Morning Run",
+"distance": 11422.0,
+"moving_time": "1:05:16",
+"type": "Run",
+"start_date": "2024-11-15 00:36:39+00:00",
+"start_date_local": "2024-11-15 08:36:39",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 122.6,
+"average_speed": 2.917,
+"source": "strava",
+"streak": 13
+},
+{
+"run_id": 12903238513,
+"name": "Morning Run",
+"distance": 12104.4,
+"moving_time": "1:02:27",
+"type": "Run",
+"start_date": "2024-11-15 00:36:52+00:00",
+"start_date_local": "2024-11-15 08:36:52",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 125.5,
+"average_speed": 3.23,
+"source": "strava",
+"streak": 13
 }
 ]
