@@ -33613,5 +33613,20 @@
 "average_speed": 3.738,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 12993936530,
+"name": "Evening Run",
+"distance": 10506.8,
+"moving_time": "0:58:31",
+"type": "Run",
+"start_date": "2024-11-27 10:28:16+00:00",
+"start_date_local": "2024-11-27 18:28:16",
+"location_country": "\u5713\u65b9 Elements, 1, \u67ef\u58eb\u7538\u9053\u897f Austin Road West, \u897f\u4e5d\u9f8d West Kowloon, \u6cb9\u9ebb\u5730 Yau Ma Tei, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, 999077, \u4e2d\u56fd",
+"summary_polyline": "idcgCc{wwTPFp@`@f@ATi@Do@Nm@BkBEwADsAIqAEoB@e@EcADQ?IAEIAQM?INw@Ju@Lg@?o@NgACeADu@EK{@UEGEoABe@Ca@Ly@H[B]ASIWCy@GYB[AEv@u@BHVJq@FECFa@Os@A[DSRQ@GVQ~@SEGEHO?k@KW@QFEEDc@Ci@E_@?aAGa@Om@CYDWAUEMKcAAk@De@LKb@Il@B~@HbC?^Gh@CLBCF?XGVH`@Bp@Fd@AJDfA?\\NPLBxCM`A?nBMjA@j@Iz@?DCBQEc@?g@D{@Cu@Bc@AjBFr@LZd@^Pn@@VKpA?FLHBL?jAH\\IXSZ_Ap@UDu@?aAXa@?_@FYA[QM?]u@GHALGD?F_@ROj@WLcAVe@GSIk@Be@Mk@Ge@Fa@?]EYB[Ae@II?w@f@Dm@Fr@@h@Cv@JdA@t@APSVKb@Av@FxAFL`@\\Nr@Df@KfA@n@_@jBGr@?H^FDJQj@NbD@hABr@NbA?bAEz@KlAQhAYt@YNVEEDJLERm@|@ATO\\q@jAw@nAKC[_@MEQ?EDAJ@PJRf@^`@NCNITBNf@XHP`@ZHL?rKDRJHTBv@CVDVP\\`@LJf@Tv@J`@@|AG\\Dj@?FBPBzAC~BBVETKhA{@t@aAN]@QKw@Hw@D{AA_BEc@?iDA@D^@dAA`AF|AEfCKx@Hv@AJUd@c@p@_@^i@`@a@P_ADaBCwBDmDMs@I{@YkAaAMCcA?QGG[?S@qFI{AAs@IMk@c@w@c@w@u@g@UIMDYPYJGHBR`@fAx@@LO\\?L|@f@h@b@C`BD`CCnA?|ABLLLTBv@@XDdAx@p@Rb@@fAQv@GLBX\\`APzAF|BAZE\\Q`Au@t@cAJW@MOaA@MJQBKCwCI{B?g@HeACMBVFvD?|DQv@Ht@ANITURQ\\m@t@[Te@RUDw@AmBBmCIuC@g@Gi@QwAkAiAA[CKGE]Bw@?gABeAAqABwBAOm@a@UE]OaA{@k@]IQ@MTc@LC`@d@p@`@HH@LI\\@N|AfABF?~@BlACdADpDHd@GBGi@EgCAsFKOsA{@_Au@i@[KQ@QR_@DCH@JPPR`@\\b@RXTv@f@dBr@\\V",
+"average_heartrate": 121.8,
+"average_speed": 2.993,
+"source": "strava",
+"streak": 5
 }
 ]
