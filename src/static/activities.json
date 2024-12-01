@@ -33658,5 +33658,20 @@
 "average_speed": 1.067,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 13012523944,
+"name": "Morning Run",
+"distance": 5058.3,
+"moving_time": "0:26:41",
+"type": "Run",
+"start_date": "2024-11-30 01:36:30+00:00",
+"start_date_local": "2024-11-30 09:36:30",
+"location_country": "\u611b\u79e9\u5e8f\u7063 Aldrich Bay, \u897f\u7063\u6cb3 Sai Wan Ho, \u6771\u5340 Eastern District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+"summary_polyline": "c`_gCuldxTu@}@CAWHYSaAiAu@m@Oe@BIVWBODIdAiAJMDQAi@Dm@GqB@]Ao@Bc@EyADmB?mBAq@Kq@AaADSHCJFDPAJCBMBIF?T?LF^FbAAhCB|@EdA@f@Av@FzADh@G|AB^ERa@\\cAdAe@^o@v@y@x@_@`AW`AKRMBO\\c@DUCQMOQ]SKSWWc@SY@s@j@c@n@qAtAOJ_@JOLeAjAUZs@t@EFBF?FI@OCIDu@t@W`@Qd@WbAUj@Y`AOZa@zAcAzCGp@A^O|@E`AId@C\\G\\@POn@Iz@?^Mn@?LDHD@JCDK?OKs@@w@Ly@H]D_ATiBN}BXq@vB_H|@eCJa@JWLQp@s@DARBNENURM^a@Zg@Jc@Z_@b@_@TId@_@xAyAl@u@T@d@RX^JXLLHPTLVAp@UHADCFOH?^ONQFSHa@@i@L[tBiCFCVLVVHz@t@|@FL?HGPBHHNj@`@HN@J?JEF_@X{@|@ENBHDBJ?JGDWL[z@y@BIAMGKaAeAkAaAQYECKAXZpAlA`@d@^d@@HMTqAdAGJAJBJHDJAJI@YDMPWp@m@BMGOc@a@IMFUGSSM}@aAIM@]BKP]JMFCHDhAjAFPCZDH",
+"average_heartrate": 133.0,
+"average_speed": 3.159,
+"source": "strava",
+"streak": 1
 }
 ]
