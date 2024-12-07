@@ -33763,5 +33763,20 @@
 "average_speed": 3.186,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 13056890974,
+"name": "Morning Alpine Ski",
+"distance": 35905.8,
+"moving_time": "2:28:07",
+"type": "Ski",
+"start_date": "2024-12-06 02:18:15+00:00",
+"start_date_local": "2024-12-06 10:18:15",
+"location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
+"summary_polyline": "w{}xFmmi_UoDpMwBzB_IdBgSvFmDTuC`DwUhNmBu@iF_GhrAqg@m@lFVdF]`GBpMmDbN{@|Hg@`AFdBqAzBoJtD{FCsBw@mF|AcHm@oGp@Q_@Wb@O_@[^cB@yA]cEbBsCxA]tFRn@b@[Jw@tlAg{A\\d@uCxL{@hA?|BwChCoTvE{EjCeAi@o@eBgAPyBfCsF`D_Bx@cARu@dAiHnDeBs@cCgDmBkAbqAmj@n@ZyCzM_@RBnBsArCmBhAsEj@G`@iFpAg@YiBnAkEv@kAlAu@[qAaCa[pRwBEwFsGh@mAbpAmh@V`AmDvLQ`DwApCqCrAoUvFgAS]p@kAGiAuBiElDk@s@qDvCkI|EaDdBqAVkDcEaB{@frAci@aDvLaGjEw[tHyC`@_Bg@c@z@a@_@{@h@yKNq@c@qFJyD|BqArDIy@gB@nAI]wCAnBb@@wAoA|@QPp@YXNYXh@g@X`@XKYbBHWc@kCnAbAkCW`A`@@C_BPj@o@@^b@SdAgAQNc@Il@dBBCn@j@FfrAkh@iErNIvBiDrDiEd@w@T[h@YYKf@s@TqAGmD|Aw@Le@SsClBaAIw@sBy@AiA`BuDvAeSbMeBy@}EcGxqAkg@uDfPkAbCWEaAhB_VxFoCbBgA_@uAcC}]xRsGgHzqAeh@iDnMWrCcAzB_CfBcDTsTdGuCuCw\\pRwAo@uEsFlqAug@_AZoAy@wBxA_BAqHxE_AMe@`AkBH_DtAqDlDaG{@w@}J{DGmI`FwGjNiGlFaA`De@_@hAbAvpAoj@b@|@iAdCs@jFiAjCqFlDyDCoMtD_BAoGfCmCa@[r@cMXyGoAkF`DaAxDi@Ep@V~Ai@znA}g@LXkAfCcChLqBDiEpCyGt@}RxE_AdBmB\\iAvA}ErB{AbBoALKj@{CfAwAxAeBs@cF_GnqAej@XrAy@~EJdLEzNe@bEaDzKk@vFs@l@aFa@q@?[d@S_@}@p@[SId@u@ZaBXQu@}E}@}Ac@mAgAgKz@sGvC}PhDg@lAXrMV|AV??m@fnAozAy@|AeCpKiG|CqBBsAnAc@Ww@t@aQhEmENaAe@_A`AyAk@{BVWm@iITsAe@uEnBeDfF_@c@dAjAl@aAtoAed@oEnRiCdCkAj@i@c@yIlCe@UeK|Dq@Y{@sBy@@i@fAmLdGs@`AoBXo@|@mEfCkBm@eCeD}A}@g@aBo@X",
+"average_heartrate": 95.5,
+"average_speed": 4.04,
+"source": "strava",
+"streak": 7
 }
 ]
