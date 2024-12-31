@@ -34258,5 +34258,20 @@
 "average_speed": 4.149,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13221069538,
+"name": "Afternoon Run",
+"distance": 11108.6,
+"moving_time": "0:54:40",
+"type": "Run",
+"start_date": "2024-12-30 06:59:10+00:00",
+"start_date_local": "2024-12-30 14:59:10",
+"location_country": "Sheraton Grand Beijing Dongcheng Hotel, 36, \u5b89\u5b9a\u95e8\u5916\u5927\u8857, \u548c\u5e73\u91cc\u8857\u9053, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100013, \u4e2d\u56fd",
+"summary_polyline": "ax|rFkumeUsB`@e@D]FQK}@Gi@s@K[AQ?o@Be@Cq@@g@Ca@AgBFwAC_ACUCe@Ge@?S@CFAJ@b@If@AN?h@HZG\\?d@J|BAPENB`@?hAFhAEx@BPCPBHAVMFODOBg@?a@Ag@BuBAWD}A?]DaACg@FUJItAApA@pAKb@@f@DjBKR@h@Eb@?L@HJHv@BGHm@BEJCf@AVErA?jAM\\GjAI\\?pAHz@@^DLCFG@K?oABg@EeA@q@CcC?oBBwBGe@AuAAUDWJM^CnB?vCEd@QXYVElA@x@ElB?lBKp@?`@ClB@fAChA@h@EvEG`AHv@^X\\Rf@DTHfEJz@Ld@Tf@RZXXTPNFb@Fb@?f@GFD@JDbBI|B?rBOjD@hAE~BQxGMnC?dAGfB?fBEb@B\\Iv@@ZCHHf@@jAF~@d@vDLzBNzA?f@RpA@^RpBJlBBfGEvB@p@?tBBtCClBBbBAt@F~CAn@FpADbE@FFDBLQpA?FDBA^@|@IpBB~@CVDdB?jDCbCFlNCtCBnBCvBD|BCfDBz@G`C?HDJ@VA`C@hBAh@@~@VzB@j@?TId@Kd@qApCs@dAIDY@q@F_@@i@VO?GEIs@GmJDwBEg@@iAAgA@gFCOAu@E}@@gAIsFFwAEeB?eBEcBBi@@}BFs@EyF@qAEiA@y@E_A@iBDm@BeEG]IKEAE?[JQ?E@c@@IGDGf@?~@EJG@MGuCAkEH_CC}DJmA?YM}@BaBIuBDqBGuA@}BDcAGiC?q@D_AA_CE]IIu@QUDo@@[Ic@Gi@FeAEy@?EACME}ABILEDf@DBZFHFFL@ZBJHJRHx@C|@LJAt@?BAv@BHABE@k@AaABcACc@@gACiA@g@EoA?iACe@EMQSGC[Cg@Om@AQCq@HkABq@D[?UEc@Co@FYJoACyA@[Cc@D_@Cc@A_@Fc@DU?EAw@BWEmBNcABk@Eq@?YMMAo@PqBJi@EM?MEiAHyB@q@C}@FgA@MC]OoAHMAOGGKGc@CG[GqAJ{@Bu@E}@@gAAkBFeBAK?mAXIC}ACaA?aCLI?GC",
+"average_heartrate": 140.0,
+"average_speed": 3.387,
+"source": "strava",
+"streak": 3
 }
 ]
