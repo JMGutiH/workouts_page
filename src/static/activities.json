@@ -34783,5 +34783,20 @@
 "average_speed": 3.43,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 13454214415,
+"name": "Lunch Alpine Ski",
+"distance": 20258.4,
+"moving_time": "1:44:39",
+"type": "Ski",
+"start_date": "2025-01-26 04:41:09+00:00",
+"start_date_local": "2025-01-26 12:41:09",
+"location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
+"summary_polyline": "sd`yFijh_U~gAga@e@tDPfI[pE?tNoDxMuAjJHn@o@bB]b@wDjA{BvA_Bf@cBXaBw@yDUwFhAY\\sAa@cAIuAFo@]Y^Ya@Sd@U_@YVu@YOf@We@U\\Q_@i@p@uDQg@DU`@y@H}@b@K^SIE`@c@ME`@a@X]GE`@]NI|BXnBPQd@wA`kAazAd@KVp@]pGJfFg@|JF|JoCbKg@jM`CrR?vAc@rB_AxAUAC^QAq@rAc@|AeBvA?r@]@gAjB[JMr@}@n@c@R{@VkEzE{ChBWf@WEiBjBsBZcDQM]QZc@BUUM\\YQG^o@|@W??X[@_@TgAfBA\\a@`@]?A\\[AC^m@ZeAlB{BfBY|@B|BYp@sD~@e@m@RYG_@~iAi_BIv@s@EY`@eAvBOlAzBfQO~DsAtAcC~EeFxHmFdEeEhEiHlEyE[qBR}BrBuAtB}@`@aE|FoBdBHx@[b@Pb@_@nAmCl@kAQBu@`jAo_BVHOj@uANkA~BQbAzBfQDjA[`CwJ~OwA`B{GdGsKzHuES{CT{CbDo@pAmAj@y@fAw@fA@r@wCpBC|@a@rC}Bz@eBEFu@~iAo_BNLK^W\\q@KcB~C}@h@m@xAGh@U?Ej@WGk@PGZUOs@t@[Om@x@SMiAXK`@c@TUQGZYKMVWYk@Go@^Og@qCWoCLuC|@yARs@u@{@Pi@?U][XQ[[ZOc@UZ]SSZSa@i@@o@H_@ZUUkAFMX{AISX][M\\a@KKj@YMMZaAf@e@LYK[VK`@YIAb@]Ae@|@AvCVfATSCYplAe|AbAaEeBmLiFwPcCsFa@q@sCw@eBmB_ASaD?iIlAkFzGWdBcAl@g@lB_B~AeA~BiBrAq@WkBhAiAPgASsAgCuAC_AtAkCfHs@E]{Aq@S_@x@{@xDu@Py@mBm@^G`ByAhFg@f@c@jDL|G`FpIfEnF^pCA|C[a@h@GFB_@VLQ[EPCMBLb@NIVp@`qAcj@d@f@eEfPqD~Aw@BMZg@Fg@PQOOb@UQWZe@Li@DaAEM\\u@PWg@cDhAQMMXWQqDnAoBN_Cp@c@tAeAyAeAsCGq@L{@`B_CLu@C}HQY_@Hc@`AoAbAsHvBgBjB_@@[h@M|Ak@RyAhDyFnEwAnDO~BU}BuAnBQCLYCyA",
+"average_heartrate": 86.1,
+"average_speed": 3.226,
+"source": "strava",
+"streak": 14
 }
 ]
