@@ -38894,5 +38894,37 @@
 "elevation_gain": 127.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 14300796831,
+"name": "Evening Ride \u2601\ufe0f\ud83c\udf19",
+"distance": 7202.2,
+"moving_time": "0:40:00",
+"type": "Ride",
+"start_date": "2025-04-27 10:26:04+00:00",
+"start_date_local": "2025-04-27 18:26:04",
+"location_country": "\u957f\u5b81\u8def, \u5468\u5bb6\u6865, \u5468\u5bb6\u6865\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200062, \u4e2d\u56fd",
+"summary_polyline": "srp}Dk`~cVUCJGIDW~@AL}@xEIv@ElA@rCLxBHfCABG@z@jIPt@Dv@?TCDBNAv@Kh@W~@k@xCEhB?tA@|@AbBFnJEf@@nAFRB|CNtGB`DAbBEjAInBOdBOpAsAzIUnAW`Au@rEWtBIpCBrAJhAOzCF~@?bBAXKj@?p@a@vAIp@KpAKp@C`@DbAHv@Gj@DvAXJ@n@G\\AlAFt@Lr@?b@P`CHfBBV@f@Cb@Mh@Yh@UV{Az@cBfAoBfBq@x@g@`AWp@k@vBk@bB{A`FGp@I^Ch@M`@Ij@W|@S`@{AnFMZUt@Cb@UzAEt@CbABdFC~ABrCCPQX]@kAKs@K_AU]AE@SNUVuBvEKp@?b@JjBBbAHfCH`A?d@NzC?`@CPYZoFzAw@Ns@ZoBf@q@Lu@VmCn@{@X_BX[PM@IG?EAmA@qBGsBGaAAyBGSC?SJm@d@{@f@iCfByDvCoBtA{B|@a@Vm@T}At@m@^sAh@Iv@OZ[V?XAE@QZYHU?KCAe@VWFg@FcA`@wAhAo@p@cAnAy@bBq@nBQp@SrA]jDQtBg@`FGTB^VZ@HCIB?",
+"average_heartrate": 68.6,
+"average_speed": 3.001,
+"elevation_gain": 26.0,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 14300798010,
+"name": "Evening Run \u2601\ufe0f\ud83c\udf19",
+"distance": 3481.5,
+"moving_time": "0:20:21",
+"type": "Run",
+"start_date": "2025-04-27 11:10:18+00:00",
+"start_date_local": "2025-04-27 19:10:18",
+"location_country": "\u5916\u73af\u9ad8\u901f, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 201803, \u4e2d\u56fd",
+"summary_polyline": "cvt}DyyrcVOJI\\Qf@Kh@?VJPLHTDh@CVCj@Yd@@VFLFHJf@Lh@Pp@Vh@XV?x@Kt@@RHf@Z\\Np@NfAFh@AHAZQRWhA]TBn@d@VHp@C`AOh@An@Bt@Cz@Ud@S\\GH@t@R^@d@AZMbA{@|@_@\\GdDJf@FbBd@fAF`AIL?\\EXQ^e@RGZAh@H`@LVRJDN@r@Ab@Il@Yh@M~@O~@Ib@KUHg@HmBXM?m@VeANa@J_@Ig@]wAOI@MHc@f@QHw@N]Bu@Cu@GkAY]M_EKWFc@Ni@XIJa@Xk@RU@g@CaAM[Fg@TgARg@DuACu@Ly@@SASI_@_@UKeA\\]\\QHu@Ho@@s@I]Ik@Wa@WQIq@C{@PI@ICo@[kAe@OE[Ea@[SEQAM@q@X[Dk@BYKMSAWHq@Vw@D[ASBg@AW",
+"average_heartrate": 119.7,
+"average_speed": 2.851,
+"elevation_gain": 18.0,
+"source": "strava",
+"streak": 6
 }
 ]
