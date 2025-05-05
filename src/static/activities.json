@@ -38990,5 +38990,21 @@
 "elevation_gain": 21.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 14374788507,
+"name": "Evening Run \ud83c\udf27\ufe0f",
+"distance": 19017.1,
+"moving_time": "1:43:44",
+"type": "Run",
+"start_date": "2025-05-04 10:45:38+00:00",
+"start_date_local": "2025-05-04 18:45:38",
+"location_country": "Sheraton Grand Beijing Dongcheng Hotel, 36, \u5b89\u5b9a\u95e8\u5916\u5927\u8857, \u548c\u5e73\u91cc\u8857\u9053, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100013, \u4e2d\u56fd",
+"summary_polyline": "mv|rFa_neUGyAL{AJOBkCjBNlDA^ENUNsJ@{CKgB?_GKoCAeBAaDDu@`SK`MY\\Op@eAIyK?mMMwEDaBC}@PWpBBeBHk@ULmAIuJFiF?oDKoAEcLM}ABwIOsPKaFDuFCaAIWFwGKeB@sCv@qAf@uArDmEtD{G|@uAZSp@oA?MfBcDfGiKVBjB~BTe@z@u@d@JrAtAb@lAhApAf@|@v@d@d@Fv@l@X?lClDH?\\q@rDiF`FyIfByCfAeAz@c@p@Q|AEKi@Dq@OkGe@oHU}FNg@UeEPa@Bo@o@q@UkCEmBKg@F]Ca@_@aBk@qHV_Ci@qCMGBMKOGw@i@eCQuCc@wEOy@q@cI_@}@WiBGoBFy@J[]eGWwBDQHJKoAk@sBMqAOMeAiEg@gBa@{@{@mD]u@A}@k@g@Oy@Ya@CcAq@gA]_CYs@u@_AKe@_@i@aAgDm@Oc@mC}@oDs@eBKy@i@oBSa@m@_@_AoA\\{@RMdBzA`@z@bBnGdAfCdAxD`CpCtCc@t@[~@OT[S}@M}Ak@eAi@iBS_DHWnLtDpCv@r@Bf@vB@hALLtFk@PSB{Ab@sCh@mBr@_AjBa@HLDr@d@^rARhBAnBO|@c@f@e@Hc@Y}@@m@z@uCFoBl@y@D[Wg@}@q@]i@Ga@?wAMe@aB}@qDDi@`@W?Qe@B{DKYOIk@Ae@\\c@HiADc@Oc@g@k@OqAMqAH{@ZsK|Fu@j@_@v@In@GlFaApBMFwAM{@]o@f@g@t@[a@Gu@lAcB?g@Q}@c@mAe@g@Y?u@^g@GKg@HgBk@iA@aBH_@d@}@v@s@AoBSQuACYFy@bAs@Xk@lBi@r@gC~@sC|As@d@sA|AAZLZzEfIzC|Bv@nAfBtGnArCd@xBf@fAjBbCtDg@bBg@NY]gCw@{Ac@qBUkCD]JE~OhFhAFRZVbAB|AHR~Fg@NPpAtGLhBAnBJvDvAL\\Tb@p@d@@f@MFJDbEG\\_@N?fCsC\\Qn@pAnNd@`Gd@zD`AvELbBf@bDPdEI|CFdCAjMALODsCQaEP}KM_FH]DKNAb@Lz@Qb@}AJ_DD_BG{E`@{B|@{A|@_BlAqAdBoA{@g@BeDfGaAYJ~@u@lBuAlC?LNFn@i@g@t@",
+"average_heartrate": 135.5,
+"average_speed": 3.055,
+"elevation_gain": 174.0,
+"source": "strava",
+"streak": 1
 }
 ]
