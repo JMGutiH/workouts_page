@@ -39070,5 +39070,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 14424135548,
+"name": "Afternoon Run",
+"distance": 15329.7,
+"moving_time": "1:10:03",
+"type": "Run",
+"start_date": "2025-05-09 09:31:44+00:00",
+"start_date_local": "2025-05-09 17:31:44",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 123.3,
+"average_speed": 3.647,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 14433211605,
+"name": "Morning Hike \ud83c\udf1e",
+"distance": 19021.2,
+"moving_time": "6:36:59",
+"type": "Hike",
+"start_date": "2025-05-10 01:03:41+00:00",
+"start_date_local": "2025-05-10 09:03:41",
+"location_country": "\u5206\u6c34\u5cad\u6881\u8def, \u4e0a\u9ec4\u571f\u6881, \u6000\u67d4\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
+"summary_polyline": "edlvFsvagUi@yCCcFo@y@RiBeByAWaAeAY@wBYyAq@q@Kw@eBwDeCkDw@_Au@GOn@Lr@k@Z_A?c@sA}AdAqAa@eAmDk@@gAcAm@_BcDoA_@iAcAs@EuAoAi@i@fAUEe@yA]Kk@aCAm@`@Ms@aAb@GDg@s@e@eDJuA}@_@{AFs@o@CuAwA_@}Ac@c@AqA}@oCwAWSu@S`@aCkJRg@nBEJ_Cg@}Ad@wBkAAm@qA_@pBuEyE{C@mEwACw@n@}ASoAfAiBKy@kA]YwAsAeAwAgC{AK{@eBUaCkDyDuAiEGyBSKD_EeAGe@p@m@K[`@C[Yd@cBXa@WsA~@Ox@{@CEl@z@v@cB|BkAw@MgAcDOeByAHy@gBQc@iA`@{@iAe@xAc@Va@Ki@\\e@dBQVWIUcA_AmBWDk@Ui@{FkCm@s@_Ev@IiBaBsCgAo@uBsCi@_CgCa@B}@eD}CnA_@vH`CkFaBSwEdAwBrB_C@sA\\oA_AcFm@k@aC}Fv@aDtB}B`@kEOqBaA}AWyBpBsBSCV]QCNS[AFO`Bg@pAoCCeDo@_Bp@Jx@cA\\iAScBXc@g@?o@w@qBTeB{@WaBeBi@k@u@JkAq@A}@uA]iB}@Rm@a@}BkDuA^iAUwAeAgBoCkA]o@aBeBeAaB}BUgCuAAq@wAmAu@u@}C}ByCO_Di@_@GiAs@w@eHRwA[kAyAMdBoBz@wAjCq@Ck@Uy@mBUeDYcB[Ia@wAuAg@gAREc@KVsDkCW}@MbAc@sAMVU[O\\\\bA_@bA[DjAzAeAILv@sBuAn@nCc@rBQXA[POFw@_Au@Aq@gCo@y@h@y@bFcATLRiCI_@hCwB\\}BjBuD?sBuAiDY_Au@u@{E_B}Bk@sCw@i@k@qAu@|@_ALa@tAaAt@?~@{BjB_EvAsBNoAu@eE}E}CjCwAZWCEcAaDkBaEHiCm@_@~@?jBg@v@yAk@Hb@g@V_CsA_El@{@UqAiDmCcD_Ce@cBbAq@lBSzA\\bEGfDs@L{@McGiEaB}Bi@mBIwFsAkAq@TiElF}B?iC{CmASg@Tu@lCgA^y@SmBwC[gDBq@rCqHIgAg@[wBMoCl@}@dD_Ap@mArCwAn@cAIeBgAcErA_E_Bc@mAByGScCkDoBs@PqAbBq@nDg@r@kF|@iAeAyA[^T",
+"average_heartrate": 94.3,
+"average_speed": 0.799,
+"elevation_gain": 1578.0,
+"source": "strava",
+"streak": 2
 }
 ]
