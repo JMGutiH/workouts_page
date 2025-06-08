@@ -39646,5 +39646,37 @@
 "elevation_gain": 34.0,
 "source": "strava",
 "streak": 25
+},
+{
+"run_id": 14719378691,
+"name": "Morning Run",
+"distance": 12125.4,
+"moving_time": "0:55:48",
+"type": "Run",
+"start_date": "2025-06-07 01:59:49+00:00",
+"start_date_local": "2025-06-07 09:59:49",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 119.3,
+"average_speed": 3.622,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 26
+},
+{
+"run_id": 14721012641,
+"name": "Afternoon Hike \ud83c\udf1e\ud83e\udd75\ufe0f",
+"distance": 4225.5,
+"moving_time": "1:34:14",
+"type": "Hike",
+"start_date": "2025-06-07 07:02:54+00:00",
+"start_date_local": "2025-06-07 15:02:54",
+"location_country": "\u6df1\u6c34\u7063\u9053, \u6df1\u6c34\u7063, \u5357\u5340, \u9999\u6e2f\u5cf6, \u9999\u6e2f, \u4e2d\u56fd",
+"summary_polyline": "_bzfCwc~wTNKx@YX[LYBK?MC_@Ge@DWDGBKGQOCYJ_ADCHMFUEQ?GAPEP?HGBO?w@CUBg@BMEA?MBo@C]K_@BI?S@ABDRv@JJNDh@KLG^GF?@BCHLJP\\`@NIQQMHCBK@AHDFQBAHLHDJEHARBHMXIROLEVCJ@NEPWPIn@QT?VEJGRULAPGT@RILIBG?YJS@QJGBGJEBU?YL[?c@XaADe@PONED@HEn@Cf@SB@DCJBXKH?JEB?FJF?HEDEBIFARKJORK^_@JAHMXWFUFAL?FCLBRKJ?PGPBXEJEFMDA^m@PGP?ZEDCAMDDC@@CCABDLCV?BBCADC^CNB@A?YCKKO@EH@FG?IEAB@E?@@BAAELM?MPODKGM[KMK]MUSKEMAABIEGKLOVEFEd@EPEJKv@UFBN?NCNBJB^@VBXTNB`@NL?NDF?DDFRHJATLDH^LRPB\\AbAMLDZAZJd@BD@JHFD^M\\@^FV?v@NTN^@h@PLLh@DLCRHPANDN@b@Iv@S\\Fl@BLCz@g@NEDGAABA?IP]BQh@UPBFEPUDe@Q[AGVg@HKBIEGDG?EEIA@@?AC?FBQGKBGIKBEAGGUIGGQCUCe@BCB?LMLWFQLK?IEKDWCCNeAPSRM@@A?BALU?MOc@?KBO?UJO?GNE@C\\IXMFBHEF@`@_@@?NS?@HE@GP?HKVOH_@E]@KHWCI?BXDJZL@JLBB@LLHJT?DBPFDFRC??DBF?RFPLNLDZ\\PJBNZl@JHTKDD@DQj@BLNJ^LRf@F\\Ef@B\\JZ?f@BPTRFPHZ?TFNDXXd@F\\?b@FPb@`AFFLDBDPd@CBBNDE?EGDAH?TGj@@A",
+"average_heartrate": 98.4,
+"average_speed": 0.747,
+"elevation_gain": 297.0,
+"source": "strava",
+"streak": 26
 }
 ]
