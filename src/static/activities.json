@@ -39918,5 +39918,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 38
+},
+{
+"run_id": 14856174473,
+"name": "Lunch Run",
+"distance": 6669.9,
+"moving_time": "0:30:55",
+"type": "Run",
+"start_date": "2025-06-20 03:23:33+00:00",
+"start_date_local": "2025-06-20 11:23:33",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 123.1,
+"average_speed": 3.596,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 39
+},
+{
+"run_id": 14858073780,
+"name": "Afternoon Ride \ud83c\udf1e\ud83e\udd75\ufe0f",
+"distance": 6565.4,
+"moving_time": "0:23:06",
+"type": "Ride",
+"start_date": "2025-06-20 09:11:40+00:00",
+"start_date_local": "2025-06-20 17:11:40",
+"location_country": "\u60e0\u65b0\u4e1c\u8857, \u5c0f\u5173\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "ev_sF{|peUIE_@D}D@WLSDU?]EiCCq@BYDkBF}ACe@DcB@sAFgABO@[?_ADo@AwA@c@Du@JUb@MPIb@?z@DhACxFLdF@rA?fBFhOBf@@hADnAEp@@x@?fBJjD?h@?xBGbC@f@LrC?dBH`C@`HGvACR}@xBOf@A^B|@Rl@l@hAVp@JbAD`B@~GH|DC|AHnEAb@GFGBwBA}AHMJWj@CH@bBHvDBrDEHG@QAsAW_@KgBs@sBi@}@M_BI{@AcADuDx@_C|@YFmAf@iAj@eC|@uC`AiAZy@Rq@V{@HeB^oC`@cGl@qIZi@EsACa@EmDGgBKYEIBEHAHAZELWPB`ELfLGrAA@WDaBFaB@cCCaBN{CPuELgCLs@FGBCJ@EHKF?r@A`@BrDEjBEXGt@C`CAr@BDJb@ARGFIdCIvAC`AMx@En@FxBArDKrBS",
+"average_heartrate": 93.6,
+"average_speed": 4.737,
+"elevation_gain": 61.0,
+"source": "strava",
+"streak": 39
 }
 ]
