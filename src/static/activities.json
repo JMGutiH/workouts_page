@@ -40446,5 +40446,21 @@
 "elevation_gain": 30.0,
 "source": "strava",
 "streak": 63
+},
+{
+"run_id": 15117300921,
+"name": "Morning Run",
+"distance": 15009.9,
+"moving_time": "1:04:23",
+"type": "Run",
+"start_date": "2025-07-15 01:58:30+00:00",
+"start_date_local": "2025-07-15 09:58:30",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 142.5,
+"average_speed": 3.886,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 64
 }
 ]
