@@ -40542,5 +40542,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 68
+},
+{
+"run_id": 15173107847,
+"name": "Afternoon Run",
+"distance": 27029.5,
+"moving_time": "2:01:53",
+"type": "Run",
+"start_date": "2025-07-20 06:12:18+00:00",
+"start_date_local": "2025-07-20 14:12:18",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 124.7,
+"average_speed": 3.696,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 69
 }
 ]
