@@ -41678,5 +41678,21 @@
 "elevation_gain": 138.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 15952469951,
+"name": "Evening Run",
+"distance": 15202.2,
+"moving_time": "1:15:28",
+"type": "Run",
+"start_date": "2025-09-27 11:09:48+00:00",
+"start_date_local": "2025-09-27 19:09:48",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 122.4,
+"average_speed": 3.357,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 7
 }
 ]
