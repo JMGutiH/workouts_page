@@ -41902,5 +41902,21 @@
 "elevation_gain": 161.0,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 16074904996,
+"name": "Night Run",
+"distance": 7459.0,
+"moving_time": "0:37:14",
+"type": "Run",
+"start_date": "2025-10-08 13:24:18+00:00",
+"start_date_local": "2025-10-08 21:24:18",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 115.3,
+"average_speed": 3.339,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 18
 }
 ]
