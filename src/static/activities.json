@@ -42110,5 +42110,21 @@
 "elevation_gain": 36.8,
 "source": "strava",
 "streak": 25
+},
+{
+"run_id": 16158320265,
+"name": "Evening Run \u2601\ufe0f",
+"distance": 10013.1,
+"moving_time": "0:50:02",
+"type": "Run",
+"start_date": "2025-10-16 10:13:20+00:00",
+"start_date_local": "2025-10-16 18:13:20",
+"location_country": "\u7d2b\u5149\u5927\u53a6\u5317\u5df7, \u5c0f\u5173\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "oq_sFwypeUXGCIBCQ[MGi@DqA?oAJa@CkAFo@?WIC@C@CPKf@@nCCmCEc@FgAAi@B}@?y@Eg@DwBAq@@SCg@CiAD_B?mAGeDF_HEeA@iAEa@Ac@BeAE{C@sACg@Di@C{ABoBEiC@}AEoBBiDAgCCa@D{@EiACS@MXaAFa@MOkAi@e@]_@S}@k@e@Wc@]k@U}Ay@KC[QcAc@[QOE[MSWAMZq@TaA^cAJk@Pi@XmACc@_@q@Uo@Mg@G[KuADwBB_@^sCP{@b@aBh@eBDU`AuCxDgHnCuEVe@^}@xA_Ch@iAh@m@jAoBz@_Bj@}@n@kAp@}@Ta@Zq@Le@^a@FCJBBA`@m@HGPEVAJBLJNTPlAHXNXRXNLNBXAPFl@jAb@ZTFP@XCZGh@CVDb@NPZX`A^r@pAnA`@VTBJ?\\Eb@Kv@k@PIVEXB`BRV@h@?`@GZOtAqANWJ[RgBGwAE]Oc@MWc@m@o@e@i@Ok@Cg@K]Uo@m@QUEOSgBMe@Wk@OMOIQ?gBRe@Cu@Iw@@c@D_@V_@d@a@n@c@pASRw@f@[`@OZ]bAQt@C~@Jj@Xl@RZNNZPl@@J?^Kj@EVDVLFJPr@JVRRZp@^`@TN\\\\XJb@?x@ONIn@e@NGLAhAHx@Nb@@r@EVKZSl@s@XMXIFB?RDJB@JKDAPH?JUPADF^JRANo@r@S^}AxBYj@i@l@MT]`@_@n@YTwAzAiA~@c@d@gAt@e@`@Er@GTa@^kAp@cCnBaBvAeAn@MP}@n@eAz@eAfAeAz@qA|@w@b@_@l@KVANHXZp@Tp@X`@d@hAX`@`@TZJXBf@?x@LnCFd@F`A?`AHTAlAFt@N\\@n@Nr@DjAAF@FH?RKd@Y|BElBKt@GdAKtBEf@ApBItCIbACbAUfEGjBS|BAtADXAZOhBYtFKjAUrAGtBB`BBPNHR@ZJJHDR@xBD`@DjAExAB|@@vBC\\AbA@TEfBB~@EpBD|BAv@@bACv@?`@DXLTNFPBzCCx@IL@HPFf@Af@Hl@FZ@bCBRFDD?FOB[AQ?YDSF@LPTPNDN?DABK?eA@IFKNCv@?j@DLBFHBp@A^EV?r@",
+"average_heartrate": 133.6,
+"average_speed": 3.335,
+"elevation_gain": 62.0,
+"source": "strava",
+"streak": 26
 }
 ]
