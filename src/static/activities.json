@@ -42366,5 +42366,37 @@
 "elevation_gain": 6.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16289013384,
+"name": "Afternoon Run",
+"distance": 12038.1,
+"moving_time": "1:01:10",
+"type": "Run",
+"start_date": "2025-10-29 05:32:25+00:00",
+"start_date_local": "2025-10-29 13:32:25",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 121.0,
+"average_speed": 3.28,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16297866514,
+"name": "Morning Run \ud83c\udf2b\ufe0f",
+"distance": 11003.1,
+"moving_time": "1:00:07",
+"type": "Run",
+"start_date": "2025-10-29 23:31:52+00:00",
+"start_date_local": "2025-10-30 07:31:52",
+"location_country": "08\u5e7f\u573a, \u9ea6\u5b50\u5e97\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100125, \u4e2d\u56fd",
+"summary_polyline": "_nxrFgb{eUC@c@c@_@Qy@GQQEQEgACuDOsBKy@Sq@Mu@U{@Ks@EKOE[@qEd@KEEQEiAUoAIWGES@q@Kq@Y{DmA{CeAgCy@UAGHCXBx@Hx@TjARr@b@r@Rn@JdAPp@AREJKH_ARcA\\wAJk@RMEo@aAq@s@i@cAM_@q@iCKYe@u@u@sCWuAOe@g@mA]e@g@a@aBgAYWqBiDcAkBU[c@}@AOHQx@cAfDmBv@_@XGtAk@d@]LODMNiAJ]VU`@M`AgApBMJ@FL?d@NlAAJMNy@j@]l@Mx@ChABPHP^b@@VI~A@NHPJFZFr@YPCNBZ^`@z@Nb@Fb@AVq@rAUVAD?VDVJ\\JLHAj@aA^WT@TVJBp@@d@LREt@gAL]B[@oAJwCJk@Xq@LMl@a@bAi@rEyBrCcBj@ObAInAJp@PHDNXXJ|AI\\Bd@Yb@CRJJXFvCFRFJPDlBBrBEt@^f@XFJFh@@|AHN^b@~@z@JV@PEP_@d@M\\E\\ClA_@pAWl@Gd@@XBLVj@?LMXqA|@o@N}DBiAO]QOSIq@KMO?s@L]P[Vg@`Aq@zCQxB?j@IVQFkDZo@LKCKQEaAMaAMg@KO}@IcPcFSAIL?l@?ZNjAd@pBb@v@Pf@J~@Rz@?RMPi@JyAj@aBJg@PYYU_@m@o@e@s@O[Ws@a@iBs@yAs@eCe@uB]eASc@_@g@_@[m@e@eAm@IIqBiDc@{@wAeCGSBMLUv@u@r@g@vBmAvBs@jAq@Ta@d@kBLOb@O|@aAl@IfA@JDDJJpAATMVs@l@Yj@Mh@G|AJ`@ZVDJElB@RDLPLT@l@[VAJBRPV\\h@tAFj@EVo@lAWXBn@JXNNHCb@u@TWLIR@d@Vx@BZJRG\\e@d@iAD_EDy@VeAX_@jBgA|JmFf@MbAEfALf@JPHFFJTHFb@FzACHCVUj@MJ@NHH\\Dh@BbBDVJPRD|@CvC?VHxA|@BJB~BZj@~@t@Rb@BXG^[f@M`@CjAKl@o@bBE\\B\\Vl@?PI\\u@r@iA^aAJyB?}@Mm@QSUEMCi@IMIAqAX]Tk@fAw@tDIf@Cj@@j@Cd@LZ`@`C`@bBTnCB^?|CDvAFHj@DTFb@Z\\b@XL^?NGZi@GBQ\\QHYD]ICB",
+"average_heartrate": 124.4,
+"average_speed": 3.05,
+"elevation_gain": 96.0,
+"source": "strava",
+"streak": 3
 }
 ]
