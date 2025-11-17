@@ -42689,7 +42689,7 @@
 },
 {
 "run_id": 16470077245,
-"name": "Morning Run \ud83c\udf1e",
+"name": "Shanghai Putuo Top Run 10k\u2705",
 "distance": 10003.1,
 "moving_time": "0:36:14",
 "type": "Run",
@@ -42700,6 +42700,38 @@
 "average_heartrate": 170.3,
 "average_speed": 4.601,
 "elevation_gain": 26.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16470538819,
+"name": "Morning Run \ud83c\udf1e",
+"distance": 2509.7,
+"moving_time": "0:12:30",
+"type": "Run",
+"start_date": "2025-11-16 00:38:32+00:00",
+"start_date_local": "2025-11-16 08:38:32",
+"location_country": "\u4e2d\u56fd\u7535\u5b50\u79d1\u6280\u96c6\u56e2\u516c\u53f8\u7b2c\u4e94\u5341\u7814\u7a76\u6240, 318, \u5e38\u548c\u8def, \u7eff\u6768\u6865, \u6843\u6d66\u9547, \u666e\u9640\u533a, \u4e0a\u6d77\u5e02, 200444, \u4e2d\u56fd",
+"summary_polyline": "_b}}Dy|vcVB?@GDo@@{@DYNwEJeARoDJaAH}ACWb@aJBAD]Fo@?UFe@PmEPmBDcAFi@N{EBKFGJA|@Jb@BVHZBBBCDI@i@MEE?CV@j@Jv@DbBRl@BvBVzAHRGRQVc@La@h@kGb@yCXwALkB?mBEuA@iAA{@@_@Dg@BwBAiAEu@HsB?c@DgBJaBLqAXuDHe@FwB?w@BSBs@BCJ@FC@YBKBCD?@B@FAV",
+"average_heartrate": 136.3,
+"average_speed": 3.346,
+"elevation_gain": 24.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16472355385,
+"name": "Afternoon Run \u2601\ufe0f\ud83c\udf19",
+"distance": 2111.8,
+"moving_time": "0:12:22",
+"type": "Run",
+"start_date": "2025-11-16 08:52:12+00:00",
+"start_date_local": "2025-11-16 16:52:12",
+"location_country": "\u4e1c\u5efa\u8def, \u82b1\u6728\u8857\u9053, \u4e25\u6865, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200122, \u4e2d\u56fd",
+"summary_polyline": "srm}DobwdVRZZCZKRKbAY`@QVQNS`@[HSb@k@r@gARm@XoAN_AJkCC[@c@IMCAA@CVBhACb@?p@ERAj@O`Aa@rA_B`C_@b@k@`@g@ZcAd@eAVi@FI@GEOSCKTcBD_ACq@@a@Au@OsAi@aC@WFODGPKn@Sf@Uf@GXItAYZQPEp@?\\Cn@@ZFNDPNFH@JBb@@p@KvBG`@Q|@Mh@Uh@w@rAy@`AWVk@`@o@XIBYC_BZWDIACICSHeAMhABNDFR?x@Q",
+"average_heartrate": 118.7,
+"average_speed": 2.846,
+"elevation_gain": 8.0,
 "source": "strava",
 "streak": 2
 }
