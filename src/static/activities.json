@@ -43246,5 +43246,21 @@
 "elevation_gain": 4947.8,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 16764594899,
+"name": "Lunch Alpine Ski \u2601\ufe0f\ud83e\udd76",
+"distance": 18645.9,
+"moving_time": "2:05:44",
+"type": "Ski",
+"start_date": "2025-12-17 02:30:04+00:00",
+"start_date_local": "2025-12-17 11:30:04",
+"location_country": "The Lookout Cafe, Annupuri Downhill Course, \u65b0\u96ea\u8c37\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1511, \u65e5\u672c",
+"summary_polyline": "qnrdGkvqyYuOjNyC|GhJlC~DTnCbB|Bp@xAo@F]zBqClEoEdCoBHrAXX`ByBdC{@DY\\?N_@P\\La@VZPc@R^N[TZN_@^TV]fAZvEs@x@gAj@wCzA_CbAeDd@m@f@\\GjC~D`@|AbCh@Ib@}Ap@dBv@iB^SbA`BxAyCJkDtAlAn@F^a@DqAnAkDRmBk@yGGqFj@uC@kMSuGRiBv@mC^wD~BoGl@c@I_ATGcA`@_mB`cBcD|GdEl@pDzApC@~Ap@rBdBfCZb@c@TcA^IDi@dAkAxFiF~Ay@^l@?`@t@C@e@x@mAjBi@|@cA^IXZJ]TXR_@v@AjAVjC[p@ZbKcC\\w@`@Lh@KDg@ZNFg@XPHo@XTj@aAbAbBR]NZ\\KJj@RYj@Zh@MRYTj@lBiC^RZ_ATC^}AjAsApB{HBkCk@sFAsEl@mE_@uTVkBfAqC@gBl@eCbB}Ed@S?eANXFUwBlAmkBfaBeEjGrK~CnEb@rC~BjCT\\Of@}AlAmAVy@h@EhGeGl@OJhAl@Hl@uAfAeAfAGd@w@VLN_@\\X^c@J`@Ve@NXRYhAXZ]jCHbB_@b@c@~@}ClCyFx@yA`@QP@@`@IjBjDl@vBpC^MPcAVSh@vAPCt@qB^B\\|@l@BfAoCLwCdClAhBqG`@qDq@wF@eAjBkFdANdC|C`Af@rAc@lBuB~@Hx@x@t@g@N\\Ae@Lh@?YQc@Bz@QM^ESYQb@JIDZAaAPAe@PE`C^}CFX[_@I\\Vj@Ss@Vn@Es@NBQnAH_BHlAWJDsAW]b@~@OMMn@d@i@Up@KYL@MNRcAFR[IPx@WeAj@`@MXDg@US^x@AWK~@QDTR@u@U@Mj@kAaAaS{CRcBW{T~@mDH}At@_DnBoFXGJsAKj@uAn@gkB~`BwD|GlEr@zCpA|E\\nGnDjAs@dBuD\\Cb@u@|GwFPZU~DNhB~@x@v@Ij@g@`@s@x@mCn@_A~HaE|BQlAs@rE}@b@L~@a@NVVkA^\\Rg@Rf@Py@d@TNqA^VBa@b@TNU\\~@^[TZF_@\\Nf@w@L`@TGJl@PWN^TWRl@bBiD`@HH{@`@d@Lk@`@e@ZC~@mCf@}Db@e@Cu@^c@BmAg@wAWeE`@wAlDq@tDhAxDaD~@Bb@~@TA",
+"average_heartrate": 75.1,
+"average_speed": 2.472,
+"elevation_gain": 365.8,
+"source": "strava",
+"streak": 1
 }
 ]
