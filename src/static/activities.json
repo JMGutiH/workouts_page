@@ -43390,5 +43390,21 @@
 "elevation_gain": 55.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16799029399,
+"name": "Lunch Alpine Ski \ud83c\udf2b\ufe0f\ud83e\udd76",
+"distance": 15433.6,
+"moving_time": "1:20:04",
+"type": "Ski",
+"start_date": "2025-12-21 02:35:33+00:00",
+"start_date_local": "2025-12-21 11:35:33",
+"location_country": "Annupuri Downhill Course, \u65b0\u96ea\u8c37\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1511, \u65e5\u672c",
+"summary_polyline": "s{odGanmyYc_BqhA`AEnAv@vB{@hBh@x@KvAhA`@?LhAhCn@f@MnBxAfAfHhAhF`@JtA~Cj@d@d@n@l@pD`Ct@tAnAhGlAhF~InBxF?b@hBjEv@zGf@WzATj@n@\\MFr@l@[Nf@b@YBf@j@SJ^b@Zh@BL`@|@[d@zA|FmEtFqAsBZ\\a@IMGL{t@{b@bG`A^u@mC{C}q@ql@dBvA|AHxBvAn@G~D~AjDbBfBxApBQq[yKr@r@fGvA~@v@|FbChAP|BhDzAjIp@vBbBrCDnAlBbBxAtCjCvAtGfB`@g@Gc@o^{b@j@I~@f@pAUMQi[}Kj@l@lADrDxAP\\\\SpJbExAfBrB[c[sKTXvBPlBvA`BFPb@zAb@Xl@b@UR\\`@EfAdAh@EPd@l@DZ|@dBENW_\\aLTf@pCb@p@p@bBHNb@zBf@^d@XM`@l@`BX~ApAd@NVtAfBlF^lDZLXl@?f@\\PXp@Fh@x@r@d@p@Nn@ZF^|Ap@HLl@j@Zh@fA`DnAhAvBbCx@p@xAfAb@tBbEtDlKzA|BTGfAhAlA\\Lb@TUJb@^GB`@`@Gb@t@XOL`@\\[F`@TQLd@\\SAx@x@UNfAn@@dCzAhA`@f@_AF~@c@URZ?}@^^Ru@]J]p@Em@x@gAQt@UMRMCd@YQJRWt@SBMq@|AyDlAkB~AS_BR`@v@v@ZagBasAn@UBwAZ^pAVl@Qv@t@vAPn@r@lAb@~@Bd@VN\\ZGP`@XKN\\lBj@n@lAnBc@q[iK\\DVf@Ha@`Dr@vA`AbBZf@TNZ^GlAd@Lb@f@R`@E^n@`CvArA[m\\mLdAl@R^lALVOP\\d@GLd@ZKNZp@\\RKVf@VQXj@^STl@ZSTj@`@QJh@\\STl@f@MP^\\EXl@`@Bf@~@fB_@k[mK\\d@~D\\P\\h@VXGRl@b@Ld@EJ`@XSb@PLVZKNb@TMx@x@hC~@nAbCZ|@I^p@hE^\\El@XTl@~ADr@XJ\\xBh@h@J~A|ArAj@jCtAzB^tArE|EpB|@nAlD\\bCbFzDpEdA~BnB`@NZGF^f@VhAKPtAhA\\`@t@d@GAh@\\@tDrCf@Bb@rBt@VMh@Tk@jAfB",
+"average_heartrate": 84.5,
+"average_speed": 3.213,
+"elevation_gain": 205.6,
+"source": "strava",
+"streak": 5
 }
 ]
