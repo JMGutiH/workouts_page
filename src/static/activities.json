@@ -44270,5 +44270,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17135616688,
+"name": "Lunch Alpine Ski \ud83c\udf1e\ud83e\udd76",
+"distance": 18518.7,
+"moving_time": "1:14:42",
+"type": "Ski",
+"start_date": "2026-01-22 03:51:05+00:00",
+"start_date_local": "2026-01-22 11:51:05",
+"location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
+"summary_polyline": "s}}xF{ri_U}@XIf@[J_AAiEVo@Ha@TWMg@j@Y_@w@GiEh@WOY\\iF@iBh@aBImEj@aAt@Dj@m@|@}F~AmD`BqCdEoAdDk@ZuA~B}AnA_BbCa@vBlBc@tlA_l@_A_@mA@OWa@FKY]LYWQR[]a@XYc@a@b@_@_@a@b@a@a@a@b@c@[_@^U[o@Fa@Yi@Tm@c@_@Pk@e@c@Xi@q@_@^]c@q@Ns@[_@\\{@]a@h@{@M]f@_AHe@j@u@Q[XE\\eABcLlN{@|@gB|CKz@kCdF}AzBoCjCw@xEi@eBG}@UQFYCVGKT@H\\YQPODQq@qAZjAT]R@j@lA]~BPn@~rAmh@a@~DJpK[zFYr@oBvAyC`AMVcD`@{GBkCz@a@EEf@mC~BgBdCQhA_AxB]bB?tAa@nAy@?yDnAoCVmGbCsGfAaDbAs@AAZaAp@QjBDbHr@vEFQnAmBnkAgyAH^m@~@]vAmA~G[p@Al@yAzCaAr@yAXKT_JlB_A@_DfAWGU\\]CiDvAaFdCeBxAeAZs@f@U`@uA`@Mh@WEoCrAYb@a@?Or@a@MIX_@DIf@a@KOj@[Mi@^a@OcAqCeAu@sBqCoAo@?Y`@YdpAgi@Xf@Ib@y@x@]g@UsAw@VQb@UYwA`A}An@uAZe@j@sBv@sAR{AhAOM[p@kBf@g@d@[Y{AvAeAX_Bp@uA]Y]kARk@YWsBReEY_A_B_@yBJ_Bq@yD`EqCdEcH`PcD~EK~AnBq@znAap@w@wF{AyGsAiCoEaM}@wAeCqAu@AoA_Ao@VgAdBaAlDiApC[h@]PEd@]^QBAl@k@t@?Za@j@SDa@xBg@VEd@g@TAh@c@VCb@a@PIl@Un@_@XA`@a@b@Cb@]N?\\]X?XmKlMYHsBnCqBrDe@fBoAnBYlAcBfCyBnBs@vDYFTAJb@lBq@doAan@KcCsBwL}AqDyEmNw@_AoF{B}@aA}E?wG~@i@Y{DkNYuD]{Au@~@}F|PyChKuCvGcBaNi@aBo@y@_BYyAd@{BKqBeBw@qDa@s@}@MuARwBm@w@Bm@d@ApAz@hAdAnCnCzRR`DInIQ`Ag@x@G~AmBxLUzCBlEXlApBlDhDfFbCdCt@tDB|BQfBOuBc@M",
+"average_heartrate": 94.4,
+"average_speed": 4.132,
+"elevation_gain": 53.6,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 17138347033,
+"name": "Evening Run",
+"distance": 11017.4,
+"moving_time": "0:58:00",
+"type": "Run",
+"start_date": "2026-01-22 11:44:51+00:00",
+"start_date_local": "2026-01-22 19:44:51",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 114.1,
+"average_speed": 3.166,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 3
 }
 ]
