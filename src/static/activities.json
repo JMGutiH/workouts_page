@@ -44302,5 +44302,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17201413671,
+"name": "Lunch Alpine Ski \ud83c\udf25\ufe0f\ud83e\udd76",
+"distance": 7825.9,
+"moving_time": "0:41:50",
+"type": "Ski",
+"start_date": "2026-01-28 02:46:25+00:00",
+"start_date_local": "2026-01-28 11:46:25",
+"location_country": "\u30ea\u30d5\u30c8\u4e57\u308a\u5834, Kamiwaza, \u5036\u77e5\u5b89\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1592, \u65e5\u672c",
+"summary_polyline": "cjvdGiatyYnHlL|S~NLIIW_@m@iA_EYgBU}@E{@S}@QiABSZNNB@GMiAFHDE@KC[BGO}@DuDEcAEUBCHDN_@HCLHDE?KDENLHEBWAc@NW?k@P?DMDAFHb@MDqAZqDRW\\QR{@JcCLYE_@Fa@Cg@Hu@Am@Lk@Bq@Lg@Dm@^{@Li@\\_@x@uBbBoBnAkAfAi@NQT]^[h@aAd@m@xAkAdB}Bl@STFj@d@VJh@Gl@e@l@y@`@a@r@_@`@e@l@k@xDsCv@iALW|@uD\\aArBeC^q@hAWl@X^B\\PL?HILa@LKXEFO@a@DOTCHIBm@ZMH]HIXEFMJc@XKJKFi@HQ^_@DSDcAlBqDDQAWDICC?GJi@COGCLL]l@e@nBqn@vpBEg@B_@N{@CG@m@DU?QJ]?MIQSMGUMKEUQOEOAQDYXS@KGOFS?KOMAMTUEMQ?MKR_@MSJU?KI?KK?KJS?GKKWAH_@KE_@La@AKYU@QOGY]@@MDEAOR_@AIDUN]OAEKJQj@]@Q_@E?SNK@GQECIPOb@_AEYPuATk@p@}@L[Z]PIRm@Lo@F?@KIKGFICUNIEJ[AEOEM@CEBYICq@JGEd@{@MIWHEGBUZ]?Iw@?YHGEFYr@w@j@}@Rq@RW\\qAd@w@ZML?dA`@`@?PEZUtA_Bv@m@xAsAjAw@r@u@r@g@f@s@j@iANe@VcBRu@N[jBuBVa@RUd@SZH\\EVLXETRLBJETYXOFc@FMRQBa@FMTEHIFq@FGXAJIFe@JQZMJOJq@JU\\c@LcAh@o@f@iANc@Lo@AWHe@AIDACGIBFEDLSb@g@lBih@byEFBM_@s@e@o@gA}@iDa@yCMWOKCQHe@CK?i@PkAE]H[EWD[C]BONW@MK]BMPQ?OKY?SHKXIFQCQOUEM@OFIJCj@DLG?IKU@KJQKa@@MLO?g@LSGo@RSBMEa@BMNO@KEYRYEk@NMBKGa@Ng@G[HUBMG[HSG[Rc@G[BKJMGQ[GAOLK?MMUNWGWPUKS?MTO?MKYDKPMBMEa@j@y@\\]HSn@gFPsBFeA@sADi@Aq@EGSAEUB?IOMEBFOO]I?T^KV{@LE\\e@JA\\[Ti@@IGHGM@WHOQT?LHAIL@h@cAx@G`AI\\j@y@M@CkBE@Iv@GZGDBD",
+"average_heartrate": 97.3,
+"average_speed": 3.118,
+"elevation_gain": 93.8,
+"source": "strava",
+"streak": 1
 }
 ]
