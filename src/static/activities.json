@@ -44321,7 +44321,7 @@
 },
 {
 "run_id": 17213078446,
-"name": "Lunch Alpine Ski \ud83c\udf1e\ud83e\udd76",
+"name": "G1+superstition+G4",
 "distance": 17548.6,
 "moving_time": "1:21:47",
 "type": "Ski",
@@ -44449,7 +44449,7 @@
 },
 {
 "run_id": 17256223320,
-"name": "Morning Alpine Ski \ud83c\udf25\ufe0f\ud83e\udd76",
+"name": "Niseko Village G11",
 "distance": 8497.6,
 "moving_time": "0:38:02",
 "type": "Ski",
@@ -44465,7 +44465,7 @@
 },
 {
 "run_id": 17257070648,
-"name": "Lunch Alpine Ski \u2601\ufe0f\ud83e\udd76",
+"name": "Annupuri G1+G7",
 "distance": 10309.8,
 "moving_time": "1:26:28",
 "type": "Ski",
@@ -44478,5 +44478,37 @@
 "elevation_gain": 150.6,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 17267913516,
+"name": "Lunch Alpine Ski \u2601\ufe0f\ud83e\udd76",
+"distance": 5250.5,
+"moving_time": "0:33:20",
+"type": "Ski",
+"start_date": "2026-02-03 02:28:32+00:00",
+"start_date_local": "2026-02-03 11:28:32",
+"location_country": "Rest House Ace Hill, Kamiwaza, \u5036\u77e5\u5b89\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1592, \u65e5\u672c",
+"summary_polyline": "{ssdGyosyYBB@AKFE?QFGHQ?QJEHI@GCG@KNQFEHQHI?CDIVULKII@?BQHEEKgB?s@Ek@Ae@CI[YMYY]IEOAIKKGKe@?u@FuAJwABKLCBD?RB?@EBPQf@?n@ElA{Il}AUWYg@Si@Qy@QgECoACQEMGI]KGAWKUa@Bi@KSF_@AIA@GGB[EUBG?WJWKWAOHU?MMU?MFSMQEMHU@MQMCMHQ?KKACE?KDUAIGGCI@YUU@YCKQEEIAWGCI?IEI]SBEGCWI?@BC?EG?QEGWFAI?OEMGJE@EEAQECOLGE?UIMGFK@AI@UEGIHDHQWIDICCI@c@E?YLEGDi@CUQFGGEYGESHGECWGAODE]GCMHGCK]SDGKGWKEKBKAMYIEM@IIQYYEOWYI]c@WKOY[KWOMEc@a@MCKIS[[MQY[GYe@UISOg@k@UMKQQk@oAeAsA_Ag@i@_Aw@_AcAu@w@m@u@m@k@u@_Aa@i@sAcCYo@_@cAc@_Bk@kEYgFJ_AVU?DBA\\_@d@yALe@BWCSCICeAWyAO_@EY?g@IY@_@Ri@ACMCAIDOAIE?KDCC@UAGQ]E[CCKBGEPcABe@Je@C_@RaA@c@ACIFC@EI?Cb@aBHm@@]DSCMCs@@k@OgBBc@GAAEFEEOIBDEAGC?@AIF@GI@WZBMEA?ODW?w@BEACD]ECMFk@r@KPG@?CGD?AC@?AE@KDEG@WGSC]CEGBMXCAAM?SCDAEKF@AIAB@?CA@?B?C@?A??B?CC@B?CC@BDACE?BCACS@OE]AUGi@AC@MCACIAWCGFs@?g@Mg@EEABE?Q[e@i@CBEJC@IIK@SKQHOIUHQOI?KBKCQMY@YUOAOBMCUSWD]YW@_@YWEQUUMQYUO[_@OYSSM]SWIa@MYgCiDg@_@e@Ym@Wk@MSC[MQCWKe@GSQa@G_@QUCSKUCIEo@]i@c@gAu@m@k@WIc@Ci@aAICQA]JsAn@GH?L\\jC",
+"average_heartrate": 81.9,
+"average_speed": 2.625,
+"elevation_gain": 29.0,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 17268865794,
+"name": "Afternoon Run \u2601\ufe0f\ud83e\udd76",
+"distance": 12209.9,
+"moving_time": "1:02:23",
+"type": "Run",
+"start_date": "2026-02-03 07:00:36+00:00",
+"start_date_local": "2026-02-03 16:00:36",
+"location_country": "\u862d\u8d8a\u30cb\u30bb\u30b3\u5036\u77e5\u5b89\u7dda, \u5357\u5341\u4e00\u6761\u897f\u4e00\u4e01\u76ee, \u5036\u77e5\u5b89\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 044-0016, \u65e5\u672c",
+"summary_polyline": "g{wdGwjazYK?AE@C@DBS@_@FqAACKEI@CJE|AADSDwBOeEE]EkBEiAKa@?uAGcAC{DWyAA]EM@c@Em@Ag@IyA?k@IGDALIdCAlBALGJEBa@BaBIu@?sAISCq@?yAIk@GK@AX?bAIfB?LLHBLQt@IhBAzAEf@DTBBLAZBdAB~BR`FND?HG@M@g@DOBEJCt@BbA?rGXvAB\\BVETITOpCkCzAgAfAi@`Aa@TOPCx@a@NKRGn@]ZGf@STUD[BcBCWDi@AQEKkAAgCMmBEu@I]@i@EuAA]GQ@QCO?cDQeAC}@GO@y@Ii@?yAGc@?i@CGFALI~C@rACLKFc@BmFUa@?u@Gi@?eAII@CVCfAYb@JJ@PCn@B`CGV?pAGbBFF\\AD@|@@|BNbA@|AJr@@\\@HEBKAWD]FKJEp@?fADrCPpCHh@?~@FLAr@c@lAoAlBcB~@g@~Aq@j@[REXQbAe@hBq@ZSHU?wAFoBCKCAo@@sBIsAAeAIw@Cm@GaAAkAKsEKo@ImACy@GsAESCkB?QEM?EFCVG~EANMNKBy@G}BCWEoACs@IeAAq@GM?ADCzAKhBFLHD@FSr@CbAEt@@bAEz@BR`@DvCJhALb@?dAFlBDFIDM@q@@GBETE`@BtCJpDTdBDf@DNATI^WdBeBp@g@VWv@i@jAi@d@Yh@WjBs@v@e@dA[RSBM?}@H}BCQIG}@GcCG}BOcA?w@IuBCiAMqAAw@EU@mAMmAAWAm@MwBGw@IGFAJ@tAInC@RAFGFWDu@ByCI_@?y@Gs@FWC}@OYCG@@~@ClA@^A`@AFBGEPEx@@zBGdBCT@NFFL@JDH@f@?pCVjFPFCDK@]D[HQHErFT|@@lAJt@@pAHTGRMf@c@\\[JQ\\YvC_CNE\\YjEcBb@Yj@Sf@OTMDKBKByCDg@COCA_BMi@?y@G_@@m@IgAEg@@cAKwDMOC_@?_@EiBCs@ISA]CEBCXKvD?|@?DIHIB{@Am@Gy@Cq@G[Bk@Ig@CGFAJI`C@~@GFa@H{@C[BaACi@GIBERAdAIpE?NFHj@Dt@G`ABx@H`@?r@BHGBGB{@FMJAjCDbG\\NAbBHLATKl@c@|B}Bn@i@lDeBXQREd@W\\M`Ae@`AYTMJOD[@a@AmCFMJEJArAHBDCd@",
+"average_heartrate": 142.0,
+"average_speed": 3.262,
+"elevation_gain": 138.0,
+"source": "strava",
+"streak": 7
 }
 ]
