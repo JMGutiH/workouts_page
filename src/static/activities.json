@@ -44750,5 +44750,37 @@
 "elevation_gain": 155.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17527607867,
+"name": "Morning Alpine Ski \u2601\ufe0f\ud83e\udd76",
+"distance": 40125.3,
+"moving_time": "3:31:11",
+"type": "Ski",
+"start_date": "2026-02-26 00:49:02+00:00",
+"start_date_local": "2026-02-26 09:49:02",
+"location_country": "\u548c\u725b\u30fb\u6d77\u9bae\u3057\u3083\u3076\u3057\u3083\u3076 S O R A -\u5929\u7a7a-, \u5915\u5f35\u65b0\u5f97\u7dda, \u5360\u51a0\u6751, \u52c7\u62c2\u90e1, \u4e0a\u5ddd\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 079-2205, \u65e5\u672c",
+"summary_polyline": "cozeGuaqeZrF`GhCl@lBfCvAn@my@nCjA~@j@bDrGjBrGSfDlE|JdFzBrCrElM`AHu[q[[gAxAXh@xA`@\\jB`AbALd@`@Df@vDbAvCzFhCnIlBnEStCwXv_B[@v@eEr@AGm@d@QZy@Ck@d@@Au@f@JEcAb@m@h@EP}Bf@]?oAb@OXqAn@JUgAx@S_@u@v@Eq@_Az@c@a@m@dAKQc@d@IIw@T_At@MKw@j@o@?gBLeAbAkDFiDwAwKIyD`@iC^WHaGlBqLXs@MvBwhAvuCkAf@w@uBs@eDSuGuFy^NiErDmNLqGeEkS@{Br@uCOsFaB_ORg@|EpBrLhP~GzFjBgA|B?rIlErRw^fFgGxG_Fz@GbAoBE}BoZeZs@yAvA_BdFEnI_C`IyHhDYl@f@ey@lCrA`B^fBbACjD`AfA|@jGWbAq@hAgEfBcDvT}@f@gCWsBbAXOV~@KlAb@iCs@@f@Km@rDlAY~Dcy@~BvA`BRjBf@Or@RLx@^g@RhAl@q@JbAf@o@XhA`@u@hBj@pEcAhDBzM_EhIuGxB@Xd@wy@nCbBtBX~BZg@Xl@^WLv@`@c@v@HL|@p@]R|@\\c@Zl@Xi@d@l@Xm@rCp@rCfCBj@xBdA^MJl@VOD~@`@UrEpB|AhCzC`KpA`Cn@JaiAlwCaBBr@Gj@hAfBQvBm@jCaChA{C^Gx@uBUg@r@WXk@Mu@j@CKk@n@UEo@h@Ab@g@Ck@v@AAk@j@?Bu@f@DLcAj@GRcAl@IjBwCB]m@@_AoDPk@m@qALe@IoAaAeIPs@i@uBl@wFOiIn@sElBgGbBsB`@eBzGsL~AsFbBuC`FaGbGsD|FcHi@TaiA|xCoB@p@M|@pAzDi@pE{Dv@eEh@GCu@\\s@r@OSe@f@_@Ao@b@@Cs@tAk@Ds@|DcDbEwG`FkEhDkGHoCa@}@[ADk@TLg@Sa@yDiBaHD_C~@oBb@mCSuCTkCaA}Fb@kBhBcBj@wJdCwGjFyG`FuCdCgDvAm@R`A[zCmXr~Ag@h@PsBf@g@GgDm@GSy@Jm@_@C[o@Ju@e@QDaAWaAc@]UwANy@a@qBx@_Cb@wAF}@BmHq@gDP_BdCkEhAoNvAkDxEaGbGoDnD_EtAoA]DGSLfAm@NU_C}[k\\pHoQpC{CdBeGn@]AuA",
+"average_heartrate": 73.2,
+"average_speed": 3.167,
+"elevation_gain": 3473.3,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 17529349179,
+"name": "Night Run \u2601\ufe0f\ud83e\udd76",
+"distance": 2222.0,
+"moving_time": "0:11:43",
+"type": "Run",
+"start_date": "2026-02-26 12:18:41+00:00",
+"start_date_local": "2026-02-26 21:18:41",
+"location_country": "\u5915\u5f35\u65b0\u5f97\u7dda, \u5360\u51a0\u6751, \u52c7\u62c2\u90e1, \u4e0a\u5ddd\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 079-2205, \u65e5\u672c",
+"summary_polyline": "{pveGqnteZHM?EJKJEFB@@?LKPsCbD[`@i@j@cCxCoBvB}@jAe@d@u@b@gCb@a@PKH}@R]PONe@l@o@rAWz@w@hDWt@m@tAw@hA_A~@eBtBm@bAk@dBd@_BL[`@q@lEiFh@_A\\{@f@kBV_AN{@Pk@\\{@PYx@u@`@Ut@WNK\\KlAQj@ETIb@YxA}ALQ~@cAjAyAnAqAPY~AiBT[NMj@o@JOCO",
+"average_heartrate": 127.5,
+"average_speed": 3.161,
+"elevation_gain": 56.0,
+"source": "strava",
+"streak": 2
 }
 ]
