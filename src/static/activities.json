@@ -44926,5 +44926,37 @@
 "elevation_gain": 134.6,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 17608585896,
+"name": "Morning Alpine Ski \ud83c\udf2b\ufe0f\ud83e\udd76",
+"distance": 14616.3,
+"moving_time": "1:08:10",
+"type": "Ski",
+"start_date": "2026-03-04 23:33:27+00:00",
+"start_date_local": "2026-03-05 08:33:27",
+"location_country": "Annupuri Downhill Course, \u65b0\u96ea\u8c37\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1511, \u65e5\u672c",
+"summary_polyline": "_todGagmyYh@Tg@R^LUEKs@JK{@GDg@OSueB_uAlB\\B{AaADa_@vJ_@rA{@bEc@`IlBpJ?^NKHg@f@XFc@ZGBe@^DX_@b@XRw@f@TZqAT^r@i@Zr@`@m@VCHfARB`@e@f@~AXeAPW`@x@x@eAvDTNP?h@zAn@l@`Ad@Ll@b@AX^IHVV?Va@HVhCd@jClAFt@X^jEfApEpDp@hAhBfBnDlF~ApFp@jBP~@FdCV~@tDjDr@xAVbBd@h@~Cq@jCtBn@a@|@z@p@FpAKd@_@pDAxBi@~FeDfCaCtEmCdAGNU@u@QIEt@HVRI@cAy@]ehB_pAl@g@PcBtB^H{AcADs^hJmB~Fo@lDCnDt@tIShASFCp@eBbAf@b@Ml@b@RSj@TTS\\D`@_@VZ^?VoBt@^j@[b@^z@Mb@`A~AFl@f@f@lFt@Zj@f@@Lf@p@d@bAM`@p@lAl@b@IZZtBIDr@|@f@j@hB|@nAx@dD~@fB~BfHh@|@r@l@rCj@jDFrDbAvBy@fAwBlBeArBo@~B@|Ck@|BxAfALvAr@pGgBbAIrAPr@pAx@Dz@j@lADvA_@|CKtEiBbCeBv@oAnBoAfHuBJg@PHMNTFJ_@GV@UIFMi@uAy@ceBitALGNVRO|@l@LWBkAs]tEDS|@@PUbB@|Ap@\\`@nB^PXNS|@CdAZRKVZNOp@Dn@b@`A@r@`A`@Bf@lA}@~Ad@D?f@^XH\\|AXVt@An@`@Zd@KBv@XABf@bAh@@b@VHFh@r@NN`@b@EFd@dA^T\\lAXp@lAj@LnBfBH^\\@~@j@@`@RLx@CrCzC\\HhApC`AvDvBtDrA|EnCnEn@rBl@\\Sp@QpCVpA^\\Ef@|A`@Xx@`BhCp@Sd@v@d@J`BI^WnEGlAWxGyDxIuGp@GH]Os@a@[HDgdBglAfBh@Vv@ZB^n@n@VlBzBz@WE^|ArBz@pBRABl@z@QNTr@GXb@\\GVlAA~@VnAfChExBfAj@t@pAv@fA|F`@TBj@ZTb@hBd@f@~@pB|@lA|BtBzC`A`@nApBdDvAzA`DnBPn@Ad@jBgAVp@x@Gt@PnB~Az@ZPKB\\x@h@`AHXp@tGt@",
+"average_heartrate": 104.4,
+"average_speed": 3.574,
+"elevation_gain": 72.2,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 17609063829,
+"name": "Afternoon Alpine Ski \u2601\ufe0f\ud83e\udd76",
+"distance": 3003.3,
+"moving_time": "0:07:45",
+"type": "Ski",
+"start_date": "2026-03-05 04:51:32+00:00",
+"start_date_local": "2026-03-05 13:51:32",
+"location_country": "Annupuri Downhill Course, \u65b0\u96ea\u8c37\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1511, \u65e5\u672c",
+"summary_polyline": "mgsdGw_pyY_@Di@AuBLeIrAVIRHJAJ@HGd@CJ@LEJ@XGJBXOV?JEJ@VIH@JIJCL@HENCXFHILAFDVMLBFJHBRUJAFHH@FIJERLRORHHIJAJBTKHDVOLBHFH?JGL?HHJCFIHCHDH?JERLTKRPHAJ@DFNh@Tj@^xAFFHAHBHFT@FFTDHFJ?JDHFJCJDHFH?TLH?RLJAVJJ?VNJCJDFJTAPVJ?TNJ?JDDJHBJ?FHHFLBHJXHJFJ@JFXHTLN@TNLBLTJHDJVLL\\FJD\\FJDP@PN^@RN^BRBNHLD`@HLD`@FJF^HJF^FLJ^HJDPP`@@PJLDPHLPb@DTZt@JLFNJHFLJHTZLJHNLJHPLLHPLJT^LHJNLFVVj@n@LDFJTPLDTXLFj@x@x@f@V\\j@b@NFh@\\pBbAlAlAt@~ARp@JHP\\D`@FNVTL^HLn@|BJLLb@PZNn@j@zA\\bAHLJFZALBRd@HDVANTFDTAFHFd@TLn@VPPF?n@d@PBl@TDHFBDFH@DF\\RRPx@INBHNPp@PV`Al@r@XZP",
+"average_heartrate": 107.3,
+"average_speed": 6.459,
+"elevation_gain": 120.0,
+"source": "strava",
+"streak": 9
 }
 ]
