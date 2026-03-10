@@ -45054,5 +45054,21 @@
 "elevation_gain": 80.0,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 17655787979,
+"name": "Morning Alpine Ski \ud83c\udf25\ufe0f\ud83e\udd76",
+"distance": 26528.1,
+"moving_time": "1:41:13",
+"type": "Ski",
+"start_date": "2026-03-08 23:43:09+00:00",
+"start_date_local": "2026-03-09 08:43:09",
+"location_country": "Annupuri Downhill Course, \u65b0\u96ea\u8c37\u753a, \u867b\u7530\u90e1, \u5f8c\u5fd7\u7d9c\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, 048-1511, \u65e5\u672c",
+"summary_polyline": "ygpdGswmyYsuAwaAjAlAdBa@hH~@zFxCxD|Ah@t@hCtMbCjFn@Th@|AbDtD`NhLvCvFhAr@`DZxEtBLn@x@^Pp@w@fFjA\\Zl@h@ERl@j@IVn@n@BVz@bNmEa@kAkfB{tAj@Q`An@L{Ae]`Eb@[|@l@lA[hBhBlCVa@~AmBzC_A~F_AbA_@nAMpDhBhFt@VhBfCxAt@^cAv@b@\\UhAbAJaAx@l@Ta@z@z@dAFF_AhBdB~GnD~CZ~FrBnGdGTvC|@nC`@fGbDrGdAl@dAvClAx@xBNtBm@dDtBxCn@dEObCZ|DsC~GsFpI_E`@k@YDj@ID`@_D{Bk_CopAb@RT_BcBaGZgBIi@RQ@oC^QoAkBdBwDPgBfC{Et@yCpA{Aw@vBa\\ve@gKJkBaCmGn@yFEyH`C{DbDEeD`@uAH{Bd@iBl@k@GeAf@cAMeA`AoAfEuICu@b@m@MyC`AiHJqJJ]l@Fr@oCu@mEuHkM{CyGaAu@RfArh@zv@l@gB`BYt@b@tA{@VcA`@wG[sADqA`AmCXeE^wAIsEb@kFGkEb@oB^aLEiJZmEZ@yEddB`JyA|CaB`CqDNoApAaC`@Ky@rB_\\~e@wFIyCh@uAcCgBAm@kDY]AaA_@s@Ay@e@m@RaAiCKJ{@Sg@Vk@qAsFP_A_@I[yANq@a@cBVeA@{@]k@OqIUs@D[vARP}Cm@aDeKyQ{@sFi@kAoJgI_DgE}BkHs@kJjD|Et\\b]?yA{AyGXSWmFs@oHx@WZeAPRJg@X\\Z_@dAqMh@cAa@eD]sALkDtCaJzEuEvDaCbFyGlCsFj@KCc@jA_@xIwIbDiH`EsFzCiB|Gc@|DoDrBeABf@wSje@~AJvBqAfCEPf@CvFb@Z`BmGlCaDh@wB`DeG`Ek@`@qAdB_Ar@xA\\Np@yAxBcArA_CEaAlAyD|E_JJh@}Xlu@r@}ADsEd@{E|BoHN_Cc@ULj@ch@vnB}Az@uCQ]_AB_B{B{ALwFXLCp@}IjaBYc@x@uDFsCr@^PWdCsN^cOMkAb@eEFuEGiAq@qEt@qXf@yFJbAcDxbB|F_AbFoBxA{BnBwGj@MuV`g@pG?pEbC`AtAhM{@bIW\\Rp@jCjHfBjIrDjCtCnCvL|D|HzKbLxFrDfBvCzDlKjCnEbCbBdADpBl@Xh@^KHb@^GJ`@f@\\\\?^|C~BxC",
+"average_heartrate": 91.7,
+"average_speed": 4.368,
+"elevation_gain": 253.0,
+"source": "strava",
+"streak": 13
 }
 ]
