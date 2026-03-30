@@ -45454,5 +45454,21 @@
 "elevation_gain": 79.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17895555290,
+"name": "2026 Shijiazhuang Marathon",
+"distance": 42412.5,
+"moving_time": "3:07:16",
+"type": "Run",
+"start_date": "2026-03-28 23:31:33+00:00",
+"start_date_local": "2026-03-29 07:31:33",
+"location_country": "\u7ad9\u524d\u8857, \u4e2d\u5c71\u8857\u9053, \u6865\u897f\u533a, \u77f3\u5bb6\u5e84\u5e02, \u6cb3\u5317\u7701, 050051, \u4e2d\u56fd",
+"summary_polyline": "yydgF_svyTaI@ULO\\GbC@jAIbCDpBAhIF`G?pGRdId@jOCtDHzABnJP~D?z@N`HPvF@vEV|LAz@@lALtC@hDJjBFhGDj@Ar@JtC@vBL|EFvGHfBPfLHtADtEKzC\\pNNpARxH?dFBnAHx@DdDAdALfC?pELlEFpIZhFHtBLrAFdBArEFdEGpCLhFR|FHnKLrHTbH?lFX~JT`NAx@RjIPpDBfMJxCZ`WNzEC|GNpD@xFCrALnCD|CAdCV~MC|@RlC@jERlHFRJHd@Nb@KRMdG_Fj@YbDeCnLkInC}A`FyDr@o@nDkCtAu@pEgDZ[nBiAjGmELQAEKBWN_[pT}C|By@^YIMWEuLE]@yBOiMHoCGuIGyDBgDIaB?qGE{AEmJGcEFkIEyA?aGEsAAgDIcDB_CCaA@qCIeLAoJBuAGeB@{@KcCByBG}F@cDKoQEoABkJG}C@{FGiE?oCQ_FJsCEaJ?mMGeB@}CE_BDiCMgEB{CGyMIqKByFKoD?eFCmCGyA@c@Ek@EmIDeBGiCHa@C@FACEAYDs@?qAEw@@{AMuF?mDEuBCgEEkCMwBCmFO{ECiJKiF@}GMgL@cACkEDkAEq@@uAGiFBuAEgDS_G?kBUcK@YJG@GCy@Ik@SOGeDMcAMaDIgA?wAYeJCoC?iBDmBC{BF_EHkCBkGJqCLePCcADiFP}KAiCFaD?gC@sDJyDBqJIsIIcB@gBGqDAwGMkLEgK?gKMuK@gGOqO?yDGwCDyACgFQoJKgR@}@EkAEaGGsDAgIOoLBaCEmB?mFIyDEaI@eAG}CDwDGuDAkIGkFCwH@eDIgD@{@GgBEcG?yHIqJK}DEkLIqAEkIBqGOsHKoZe@as@BgBMyKMuSBeAEYGcH@{CImLMcLHyCE_HDqGGqIIyBCkCWwE@eBEiAFeA@_BCaLIuAOcA@_BNcBDwAAeFGsBAiSEkDOiDM}GGk@Y{@Ea@IeG?oBCkGQwN@oBCa@KwXOqO@uCEk@DiCAsBDk@L[p@YtASrCK`CB~FKjBQhHGhBFdGIjCWnBu@zAw@~@o@bEoDvEuExAgAfAm@pAc@lCg@`OBlEFrCLbQF|Kh@~ELvEVfSIxFFbPM~@D~GCrKBzJUrIEt@FbGQf@FvG?bFHbFApKIhDBxDIJFALIDuCLsFFgIAaEPgI?eGG_MP}@A}@MgC?_ED_INcAEiJFuAG}EAiE@yFJyC?cCKoH@mCHgEAcT_AiKWsF@oECeRUiCPkCh@k@RoAt@y@l@wBbCmAfAeEnEsA~@cAf@iAd@iAX{DZmJTgPNyCNk@CuEPMPETCfB?bDHbFAnDNxMC`G",
+"average_heartrate": 160.0,
+"average_speed": 3.775,
+"elevation_gain": 271.0,
+"source": "strava",
+"streak": 2
 }
 ]
