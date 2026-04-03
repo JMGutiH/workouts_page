@@ -45502,5 +45502,21 @@
 "elevation_gain": 26.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17950300397,
+"name": "Night Run \u2601\ufe0f\ud83c\udf19",
+"distance": 11207.3,
+"moving_time": "0:54:37",
+"type": "Run",
+"start_date": "2026-04-02 13:04:24+00:00",
+"start_date_local": "2026-04-02 21:04:24",
+"location_country": "Vantage, \u8dd1\u99ac\u5730\u99ac\u5834 Happy Valley Racecourse, \u7063\u4ed4\u5340, \u9999\u6e2f\u5cf6, \u9999\u6e2f, \u4e2d\u56fd",
+"summary_polyline": "uf}fCsz{wTVCVMbAu@|AwBh@m@lAkAvDwEP_@FYBW?c@Io@]s@SQs@W{@Ga@H}At@y@V}Av@oEjByBz@c@XOP_@v@QnA@fAC\\F~@FZVr@NNn@d@\\Pl@Np@BdAETE`@Mj@W\\Yv@gATSl@w@RQb@o@dCmCR[rAwAT]Ni@@s@Ce@Wo@e@e@UO[Kc@Co@Dk@RaCnAyBt@m@\\i@N{CrA_Ad@i@j@Sb@I`@Eh@@TChAD`AJ^L\\Zh@Z^TLt@VRDtA?n@I~@c@`@_@ZS\\a@Xe@`@g@^i@tAoAR]d@g@T]h@g@b@i@VONQZw@Fc@C{@Qo@g@k@m@[o@E_@@UF_A`@a@Vs@Rk@\\sFxBqAj@eAl@s@p@KRGVGt@Cp@?^DZCr@BP^lAVZZRr@ZfAPlAGTCx@]z@k@T]d@i@JQh@e@JSrAyAdA_B`@c@vAqA\\c@JWHc@?WCc@[y@GK]Wq@_@o@Eq@JsAp@i@ZaCz@eChAmBp@}@b@g@Z]`@Up@IdAB|CF\\L^j@z@TL|@X|@HvAInAk@`@[n@s@JQb@a@RY`AiA\\[jA_BfCcCVc@J_@BW?q@CSKWOW][s@[g@Gm@@wEpBgA^aChAaDpAg@\\OPc@dAGx@DxCRz@N^RX\\Vh@ZVFj@BfAE\\En@S\\WVK`@_@p@aAb@a@zAiBv@y@~@qAz@y@b@g@Zi@H_@BaACWKSMUY]c@Y]I_@Co@HkF~Bq@RsD`Bw@VeAf@a@\\OTSj@Id@C`@BrB@VFX\\v@h@~@XRZLVF^BnAAZEt@Sd@Wb@c@dAsAbA_APYZ[r@eA`DmD\\i@Ng@Bc@Ac@GYKYi@o@m@Ym@Gs@FiCnA{CjAiAj@u@Vi@VaBn@]Rc@`@Yh@Kd@Cd@BpCD`@Z|@f@p@f@^XLp@FrAEl@Kv@UTSlB}Bt@s@l@_AfAgAzCgDb@aAFg@Go@Ys@a@e@i@Yo@Io@DeJ`EaAZy@`@kA^g@Va@\\c@z@GTG`@FhB?b@Fp@Ln@Td@HJr@f@v@VZBnAC`@KHIEe@Fe@AU",
+"average_heartrate": 137.8,
+"average_speed": 3.42,
+"elevation_gain": 43.0,
+"source": "strava",
+"streak": 2
 }
 ]
