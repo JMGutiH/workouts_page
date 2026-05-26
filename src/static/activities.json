@@ -46497,7 +46497,7 @@
 },
 {
 "run_id": 18628509429,
-"name": "Morning Run \ud83c\udf25\ufe0f",
+"name": "2026 Shijingshan Half Marathon",
 "distance": 21217.4,
 "moving_time": "1:24:44",
 "type": "Run",
@@ -46526,5 +46526,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 18645264500,
+"name": "Afternoon Run",
+"distance": 12035.5,
+"moving_time": "1:02:45",
+"type": "Run",
+"start_date": "2026-05-25 08:55:51+00:00",
+"start_date_local": "2026-05-25 16:55:51",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 116.5,
+"average_speed": 3.197,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 6
 }
 ]
