@@ -46814,5 +46814,37 @@
 "elevation_gain": 101.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18875703560,
+"name": "Afternoon Run \ud83c\udf1e\ud83e\udd75\ufe0f",
+"distance": 5684.7,
+"moving_time": "0:30:24",
+"type": "Run",
+"start_date": "2026-06-11 09:24:19+00:00",
+"start_date_local": "2026-06-11 17:24:19",
+"location_country": "\u5143\u5927\u90fd\u57ce\u57a3\u9057\u5740\u516c\u56ed, \u5317\u571f\u57ce\u897f\u8def, \u82b1\u56ed\u8def\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100191, \u4e2d\u56fd",
+"summary_polyline": "eo~rFwlceUBEAm@DiAE{BB_AAa@?eBBaACq@?gACc@Au@?mDRs@@S?q@LcAEo@CM[g@CU@eDEaDBk@?u@C{@@mAEm@F_CC}AHKt@BZEHGG_@GGqAAGAGIBaAAkCEqADiAEcC@iE@q@AGUDQAUIQOU]EQAYBGJA`@Jn@CHGBME}@@eCEw@BkACsA@]CeBBm@AoA@wAEqAB{@AcDCs@DwAAu@Dk@EU?eACo@@sAC]Ke@MMWGs@EECMOCsA@q@CKFCFBl@d@p@\\PDTFl@EV@t@GV_@DMHi@IoBDwA?{@G]IUBI?[KcABI?MGGUGi@C]@OCCG@c@IKE_@BIB?JVPBFI?GM?CEAMNK@MCeB@k@@MCuE@sAEuB?{ACw@?uBGu@@y@E{@?uAFcA?]I[Ey@Aq@Ek@@{@G{@CwB?{@Ce@@a@C]AqACi@@c@Cy@@_DEgC@a@ACD_BIOCeA@wACq@?aABi@CsDBu@Ee@Bu@CqABkACe@BgA?eAEi@BqBCiB@_ACe@?]DQ?M?}@IUEEFE@[@yAAmBBw@Cs@@qAAgB@yACUDkA@iBDsAGoBHGZAt@SFI@GA[Ba@Z]B]Cw@@_@CwAHcBGwA@u@Dm@?iBJWFCd@DVAZ@jAKvABzAOZ@dBEj@DVC",
+"average_heartrate": 131.9,
+"average_speed": 3.117,
+"elevation_gain": 70.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 18878609044,
+"name": "Night Run",
+"distance": 1249.3,
+"moving_time": "0:07:05",
+"type": "Run",
+"start_date": "2026-06-11 14:09:35+00:00",
+"start_date_local": "2026-06-11 22:09:35",
+"location_country": "\u6a31\u82b1\u56ed\u4e1c\u8857, \u5c0f\u5173\u8857\u9053, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100029, \u4e2d\u56fd",
+"summary_polyline": "at~rFe`qeUB@OEGDAL@XCF[AOKBaBAcBBs@@kCEgC@e@E{A@iCEgAB_A?sAIaFBmADo@X}CK{@A_AXgF?s@Lk@Ck@BO@w@BW?SJqADsA?UFe@Bw@Fq@D{@AMJgAHk@H}A",
+"average_heartrate": 123.0,
+"average_speed": 2.94,
+"elevation_gain": 10.0,
+"source": "strava",
+"streak": 5
 }
 ]
